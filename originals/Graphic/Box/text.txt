@@ -1,0 +1,37 @@
+Multijoueur par réseau, éditeur de niveau.
+Multiplayer network game, level editor.
+
+-	Version française intégrale.
+-	7 niveaux, plus de 40 tableaux.
+-	Possibilité de jouer seul ou à plusieurs.
+-	Jeu en réseau jusqu'à 4 joueurs.
+-	Editeur de tableau permettant aux joueurs de créer leurs propres parties et de les échanger avec d'autres joueurs.
+-	Possibilité de jouer avec une manette de jeu (JoyPad) avec une croix directionnelle et 4 boutons A, B, C et D.
+
+-	Deutsche Vollversion.
+-	7 Spielebenen, über 40 Levels.
+-	Sie können alleine oder im Multiplayermodus spielen.
+-	Multiplayer Spiel für bis zu vier Spieler.
+-	Level-Editor zum Erstellen Ihrer eigenen Levels.
+-	Unterstützt Joypads mit Joystick und 4 Knöpfen A, B, C und D.
+
+-	English full version.
+-	7 stages, over 40 levels.
+-	Single or multiple players.
+-	Network game up to 4 players.
+-	Supports 4 buttons joypads (A, B, C et D).
+-	With the built-in Mission designer you can create your own missions and give them to your friends.
+
+10-99 Ans Jahre Years
+
+www.blupi.com
+
+
+
+PC CD-ROM
+Windows 95/98
+Pentium 100
+16 Mb RAM
+
+ATTENTION
+Chez certaines personnes, l’utilisation de ce jeu nécessite des précautions d’emploi particulières qui sont détaillées dans la notice ci-jointe.
