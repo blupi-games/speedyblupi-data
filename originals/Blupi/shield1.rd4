@@ -1,0 +1,1696 @@
+3DC {
+ asci 1
+ vs "1.0"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 60
+  heig 60
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra Jeu"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    OVER 1
+    MAXR 2
+    MAXT 6
+    MAXA 2
+    FLAT 1
+    LITE 1
+    DRLC 0
+    QD3D 0
+    GBCK 1
+    }
+   }
+  oopt 1
+  Ofil "C:\\RAYDREAM\\Blupi3d.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 2400,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra Jeu"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 14
+     locV 759
+     sizH 975
+     sizV 317
+     flot 0
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 13
+     locV 25
+     sizH 1149
+     sizV 702
+     flot 0
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra Jeu"
+ ShLv 3
+ Zoom 8
+ Plns 242
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 112,0,797,960
+ }
+      }
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,420,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ drop {
+  colo {
+   colo 0.5,0.5,0.5
+   }
+  }
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 1
+   }
+  }
+ }
+sc {
+ nm "shield1"
+ nxtL 1
+ nxtC 4
+ nxtG 7
+ nxtO 0
+ ob {
+  sp {
+   prim {
+    sp {
+     }
+    }
+   nm "Sphère"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Universe"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 30.0116,30.0116,30.00577
+      mat -0.70624,-0.40945,0.57751,0.70792,-0.40762,0.57672,-0.00073,0.81616,0.57779
+      }
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 45
+       fall 0
+       brit 1.50423
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 29.52576,0,14.76288
+      mat 0.00098,-0.70782,0.70636,0.99994,0.00098,-0.00037,-0.00037,0.70636,0.70789
+      }
+     only 0
+     }
+    ca {
+     nm "Caméra Jeu"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 19.68364,0.18381,-4.65807
+      mat 0.00018,-0.00015,0.99997,0.99997,0,-0.00015,0.00003,0.99997,0.00018
+      }
+     proj {
+      iso {
+       zoom 3.43654
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    gr {
+     nm "Groupe7"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -4.56763,0.22861,-4.55467
+      APos {
+       XCOO {
+        time 0
+        qfix -4.56762695
+        void 0
+        time 2400
+        qfix -4.56762695
+        void 0
+        }
+       YCOO {
+        time 0
+        qfix 0.22860717
+        void 0
+        time 2400
+        qfix 0.22860717
+        void 0
+        }
+       ZCOO {
+        time 0
+        qfix -4.55467224
+        void 0
+        time 2400
+        qfix -4.55467224
+        void 0
+        }
+       }
+      Scal 0.82381
+      hp -4.56763,0.22845,-1.87395
+      ATra {
+       HOTP {
+        time 0
+        VEC3 -4.56762695,0.22845458,-1.87394714
+        void 0
+        time 2400
+        VEC3 -4.56762695,0.22845458,-1.87394714
+        void 0
+        }
+       SCAL {
+        time 0
+        qfix 0.82380676
+        void 0
+        time 2400
+        qfix 0.82380676
+        void 0
+        }
+       ORIE {
+        time 0
+        ROTA 1,0,0,0,0
+        void 0
+        time 600
+        ROTA 0.70709228,0,0,0.70709228,0
+        void 0
+        time 1200
+        ROTA 0,0,0,1,0
+        void 0
+        time 1815
+        ROTA 0.70709228,0,0,-0.70709228,0
+        void 0
+        time 2400
+        ROTA 1,0,0,0,0
+        void 0
+        time 2400
+        ROTA 1,0,0,0,0
+        void 0
+        }
+       }
+      }
+     so {
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.51628,-6.5361,-5.37952
+        APos {
+         XCOO {
+          time 0
+          qfix -4.51628112
+          void 0
+          time 1200
+          qfix -4.51625061
+          void 0
+          time 2400
+          qfix -4.51628112
+          void 0
+          }
+         YCOO {
+          time 0
+          qfix -6.53610229
+          void 0
+          time 1200
+          qfix -6.53604125
+          void 0
+          time 2400
+          qfix -6.53610229
+          void 0
+          }
+         ZCOO {
+          time 0
+          qfix -5.37951660
+          void 0
+          time 1200
+          qfix -2.17512512
+          void 0
+          time 2400
+          qfix -5.37951660
+          void 0
+          }
+         }
+        mat -0.99988,0,0,0,0.00006,0.99994,0,0.99994,0.00006
+        Scal 0.9859
+        ATra {
+         HOTP {
+          time 0
+          VEC3 0,0,0
+          void 0
+          time 2400
+          VEC3 0,0,0
+          void 0
+          }
+         SCAL {
+          time 0
+          qfix 0.98590087
+          void 0
+          time 1200
+          qfix 0.98587036
+          void 0
+          time 2400
+          qfix 0.98590087
+          void 0
+          }
+         ORIE {
+          time 0
+          ROTA 0,0,0.70709228,0.70709228,0
+          void 0
+          time 2400
+          ROTA 0,0,0.70709228,0.70709228,0
+          void 0
+          }
+         }
+        }
+       Atre {
+        EXIS {
+         time 0
+         bool 
+         void 0
+         time 2400
+         bool 
+         void 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            ACom {
+             }
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0,0.75,0.99608
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.5
+                void 0
+                time 2400
+                qfix 0.5
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.5
+                void 0
+                time 2400
+                qfix 0.5
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.24729919
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.2473
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sclr {
+              ACom {
+               COLO {
+                time 0
+                colo RGB(0,0,0)
+                void 0
+                time 2400
+                colo RGB(0,0,0)
+                void 0
+                }
+               }
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          Ashe {
+           }
+          }
+         }
+        }
+       ob "Sphère"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -12.74902,-3.77063,6.01093
+        APos {
+         XCOO {
+          time 0
+          qfix -12.74902343
+          void 0
+          time 1200
+          qfix -12.74902343
+          void 0
+          time 2400
+          qfix -12.74911499
+          void 0
+          }
+         YCOO {
+          time 0
+          qfix -3.77062988
+          void 0
+          time 1200
+          qfix -3.77062988
+          void 0
+          time 2400
+          qfix -3.77066040
+          void 0
+          }
+         ZCOO {
+          time 0
+          qfix 6.01092529
+          void 0
+          time 1200
+          qfix 2.35087585
+          void 0
+          time 2400
+          qfix 6.01098632
+          void 0
+          }
+         }
+        mat 0.00009,0.00006,-0.99991,-0.99994,0.00006,-0.00003,-0.00003,0.99991,0.00015
+        Scal 0.98584
+        ATra {
+         HOTP {
+          time 0
+          VEC3 0,0,0
+          void 0
+          time 2400
+          VEC3 0,0,0
+          void 0
+          }
+         SCAL {
+          time 0
+          qfix 0.98583984
+          void 0
+          time 1200
+          qfix 0.98583984
+          void 0
+          time 2400
+          qfix 0.98585510
+          void 0
+          }
+         ORIE {
+          time 0
+          ROTA 0.5,-0.49996948,0.49995422,0.5,0
+          void 0
+          time 2400
+          ROTA 0,0,0.70709228,0.70709228,0
+          void 0
+          }
+         }
+        }
+       Atre {
+        EXIS {
+         time 0
+         bool 
+         void 0
+         time 2400
+         bool 
+         void 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            ACom {
+             }
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0,0.75,0.99608
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.5
+                void 0
+                time 2400
+                qfix 0.5
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.5
+                void 0
+                time 2400
+                qfix 0.5
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.24729919
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.2473
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sclr {
+              ACom {
+               COLO {
+                time 0
+                colo RGB(0,0,0)
+                void 0
+                time 2400
+                colo RGB(0,0,0)
+                void 0
+                }
+               }
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          Ashe {
+           }
+          }
+         }
+        }
+       ob "Sphère"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -12.35027,4.45615,1.17825
+        APos {
+         XCOO {
+          time 0
+          qfix -12.35026550
+          void 0
+          time 1200
+          qfix -12.35026550
+          void 0
+          time 2400
+          qfix -12.35035705
+          void 0
+          }
+         YCOO {
+          time 0
+          qfix 4.45614624
+          void 0
+          time 1200
+          qfix 4.45614624
+          void 0
+          time 2400
+          qfix 4.45617675
+          void 0
+          }
+         ZCOO {
+          time 0
+          qfix 1.17825317
+          void 0
+          time 1200
+          qfix -2.63174438
+          void 0
+          time 2400
+          qfix 1.17828369
+          void 0
+          }
+         }
+        mat 0.70718,-0.00009,0.70706,0.70706,0.00012,-0.70709,-0.00003,0.99994,0.00015
+        Scal 0.98581
+        ATra {
+         HOTP {
+          time 0
+          VEC3 0,0,0
+          void 0
+          time 2400
+          VEC3 0,0,0
+          void 0
+          }
+         SCAL {
+          time 0
+          qfix 0.98580932
+          void 0
+          time 1200
+          qfix 0.98580932
+          void 0
+          time 2400
+          qfix 0.98583984
+          void 0
+          }
+         ORIE {
+          time 0
+          ROTA 0.65328979,-0.65324401,-0.27056884,-0.27059936,0
+          void 0
+          time 2400
+          ROTA 0,0,0.70709228,0.70709228,0
+          void 0
+          }
+         }
+        }
+       Atre {
+        EXIS {
+         time 0
+         bool 
+         void 0
+         time 2400
+         bool 
+         void 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            ACom {
+             }
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0,0.75,0.99608
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.5
+                void 0
+                time 2400
+                qfix 0.5
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.5
+                void 0
+                time 2400
+                qfix 0.5
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.24729919
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.2473
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sclr {
+              ACom {
+               COLO {
+                time 0
+                colo RGB(0,0,0)
+                void 0
+                time 2400
+                colo RGB(0,0,0)
+                void 0
+                }
+               }
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          Ashe {
+           }
+          }
+         }
+        }
+       ob "Sphère"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po -4.51614,6.99283,5.30028
+        APos {
+         XCOO {
+          time 0
+          qfix -4.51614379
+          void 0
+          time 1200
+          qfix -4.51614379
+          void 0
+          time 2400
+          qfix -4.51618957
+          void 0
+          }
+         YCOO {
+          time 0
+          qfix 6.99282836
+          void 0
+          time 1200
+          qfix 6.99282836
+          void 0
+          time 2400
+          qfix 6.99287414
+          void 0
+          }
+         ZCOO {
+          time 0
+          qfix 5.30027770
+          void 0
+          time 1200
+          qfix 0.64019775
+          void 0
+          time 2400
+          qfix 5.30032348
+          void 0
+          }
+         }
+        mat 0.50009,0,-0.86597,-0.86597,0.00012,-0.5,0,0.99994,0.00015
+        Scal 0.98581
+        ATra {
+         HOTP {
+          time 0
+          VEC3 0,0,0
+          void 0
+          time 2400
+          VEC3 0,0,0
+          void 0
+          }
+         SCAL {
+          time 0
+          qfix 0.98580932
+          void 0
+          time 1200
+          qfix 0.98580932
+          void 0
+          time 2400
+          qfix 0.98583984
+          void 0
+          }
+         ORIE {
+          time 0
+          ROTA 0.61238098,-0.61233520,0.35353088,0.35354614,0
+          void 0
+          time 2400
+          ROTA 0,0,0.70709228,0.70709228,0
+          void 0
+          }
+         }
+        }
+       Atre {
+        EXIS {
+         time 0
+         bool 
+         void 0
+         time 2400
+         bool 
+         void 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            ACom {
+             }
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0,0.75,0.99608
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.5
+                void 0
+                time 2400
+                qfix 0.5
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.5
+                void 0
+                time 2400
+                qfix 0.5
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.24729919
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.2473
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sclr {
+              ACom {
+               COLO {
+                time 0
+                colo RGB(0,0,0)
+                void 0
+                time 2400
+                colo RGB(0,0,0)
+                void 0
+                }
+               }
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          Ashe {
+           }
+          }
+         }
+        }
+       ob "Sphère"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po 3.32179,4.24051,-6.90823
+        APos {
+         XCOO {
+          time 0
+          qfix 3.32179260
+          void 0
+          time 1200
+          qfix 3.32179260
+          void 0
+          time 2400
+          qfix 3.32182312
+          void 0
+          }
+         YCOO {
+          time 0
+          qfix 4.24050903
+          void 0
+          time 1200
+          qfix 4.24050903
+          void 0
+          time 2400
+          qfix 4.24053955
+          void 0
+          }
+         ZCOO {
+          time 0
+          qfix -6.90823364
+          void 0
+          time 1200
+          qfix 0.60708618
+          void 0
+          time 2400
+          qfix -6.90827941
+          void 0
+          }
+         }
+        mat 0.86609,-0.00003,0.49997,0.49997,0.00012,-0.86606,-0.00003,0.99997,0.00012
+        Scal 0.98587
+        ATra {
+         HOTP {
+          time 0
+          VEC3 0,0,0
+          void 0
+          time 2400
+          VEC3 0,0,0
+          void 0
+          }
+         SCAL {
+          time 0
+          qfix 0.98587036
+          void 0
+          time 1200
+          qfix 0.98587036
+          void 0
+          time 2400
+          qfix 0.98590087
+          void 0
+          }
+         ORIE {
+          time 0
+          ROTA 0.68302917,-0.68298339,-0.18299865,-0.18299865,0
+          void 0
+          time 2400
+          ROTA 0,0,0.70709228,0.70709228,0
+          void 0
+          }
+         }
+        }
+       Atre {
+        EXIS {
+         time 0
+         bool 
+         void 0
+         time 2400
+         bool 
+         void 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            ACom {
+             }
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0,0.75,0.99608
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.5
+                void 0
+                time 2400
+                qfix 0.5
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.5
+                void 0
+                time 2400
+                qfix 0.5
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.24729919
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.2473
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sclr {
+              ACom {
+               COLO {
+                time 0
+                colo RGB(0,0,0)
+                void 0
+                time 2400
+                colo RGB(0,0,0)
+                void 0
+                }
+               }
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          Ashe {
+           }
+          }
+         }
+        }
+       ob "Sphère"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po 3.61398,-3.6945,-1.57567
+        APos {
+         XCOO {
+          time 0
+          qfix 3.61398315
+          void 0
+          time 1200
+          qfix 3.61398315
+          void 0
+          time 2400
+          qfix 3.61401367
+          void 0
+          }
+         YCOO {
+          time 0
+          qfix -3.69450378
+          void 0
+          time 1200
+          qfix -3.69450378
+          void 0
+          time 2400
+          qfix -3.69453430
+          void 0
+          }
+         ZCOO {
+          time 0
+          qfix -1.57566833
+          void 0
+          time 1200
+          qfix 4.48269653
+          void 0
+          time 2400
+          qfix -1.57566833
+          void 0
+          }
+         }
+        mat 0.00009,-0.00009,0.99994,0.99991,0.00006,-0.00003,0,0.99991,0.00015
+        Scal 0.98576
+        ATra {
+         HOTP {
+          time 0
+          VEC3 0,0,0
+          void 0
+          time 2400
+          VEC3 0,0,0
+          void 0
+          }
+         SCAL {
+          time 0
+          qfix 0.98576354
+          void 0
+          time 1200
+          qfix 0.98576354
+          void 0
+          time 2400
+          qfix 0.98577880
+          void 0
+          }
+         ORIE {
+          time 0
+          ROTA 0.5,-0.49996948,-0.49995422,-0.5,0
+          void 0
+          time 2400
+          ROTA 0,0,0.70709228,0.70709228,0
+          void 0
+          }
+         }
+        }
+       Atre {
+        EXIS {
+         time 0
+         bool 
+         void 0
+         time 2400
+         bool 
+         void 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            ACom {
+             }
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0,0.75,0.99608
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.5
+                void 0
+                time 2400
+                qfix 0.5
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.5
+                void 0
+                time 2400
+                qfix 0.5
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0.24729919
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0.2473
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sval {
+              ACom {
+               VALU {
+                time 0
+                qfix 0
+                void 0
+                time 2400
+                qfix 0
+                void 0
+                }
+               }
+              prkd 1
+              Val 0
+              }
+             sclr {
+              ACom {
+               COLO {
+                time 0
+                colo RGB(0,0,0)
+                void 0
+                time 2400
+                colo RGB(0,0,0)
+                void 0
+                }
+               }
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          Ashe {
+           }
+          }
+         }
+        }
+       ob "Sphère"
+       }
+      }
+     Atre {
+      EXIS {
+       time 0
+       bool 
+       void 0
+       time 2400
+       bool 
+       void 0
+       }
+      }
+     boxM 7.36186,11.03287,8.96881
+     boxm -16.53276,-9.49385,-9.86624
+     open 1
+     }
+    }
+   boxM 32.61583,32.61572,31.8093
+   boxm -14.42468,-7.78078,-11.13884
+   open 1
+   }
+  }
+ CPos {
+  @@@@ {
+   nm "3/4"
+   ma -0.68944,-0.11905,0.71448,37.12839,0.72426,-0.12726,0.67766,35.21355,0.01024,0.9847,0.17397,9.03911,1,1,1,1
+   hp 0,0,0
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

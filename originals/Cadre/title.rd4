@@ -1,0 +1,480 @@
+3DC {
+ asci 1
+ vs "1.0"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 640
+  heig 480
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 0
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra 2"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    OVER 1
+    MAXR 2
+    MAXT 6
+    MAXA 2
+    FLAT 1
+    LITE 1
+    DRLC 0
+    QD3D 0
+    GBCK 1
+    }
+   }
+  oopt 1
+  Ofil "C:\\PROGRAM FILES\\RAYDREAM40\\RayDream.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 3
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra 2"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 4
+     locV 790
+     sizH 1172
+     sizV 291
+     flot 0
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 6
+     locV 25
+     sizH 1170
+     sizV 739
+     flot 0
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra 1"
+ ShLv 3
+ Zoom 5
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 225,127,947,1280
+ }
+      }
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,258,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 0.17719
+   }
+  }
+ }
+sc {
+ nm "cadre-bye"
+ nxtL 2
+ nxtC 2
+ nxtG 1
+ nxtO 0
+ ob {
+  tx {
+   nm "SPEEDY BLUPI"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 0.75
+   pv {
+    bb2D 0,0,0,0
+    pg {
+     px {
+      mode 0
+      type 0
+      styl {
+       fill 0,1,1,1,0
+       strk 0,0,0,0,0
+       wdth 0
+       isfi 0
+       cap 1
+       join 1
+       }
+      algn 1
+      top 0
+      bot 0
+      left 0
+      rght 0
+      scal 1
+      indt 0
+      frun {
+       fnam "Informal011 Blk BT"
+       size 72
+       csph 0
+       cspv 0
+       wsph 0
+       wspv 0
+       base 0
+       kern 0
+       rled 1.2
+       fsty 0
+       styl {
+        fill 0,1,1,1,0
+        strk 0,0,0,0,0
+        wdth 0
+        isfi 0
+        cap 1
+        join 1
+        }
+       char 83
+       char 80
+       char 69
+       char 69
+       char 68
+       char 89
+       char 32
+       char 66
+       char 76
+       char 85
+       char 80
+       char 73
+       }
+      }
+     }
+    }
+   ed 1
+   fbt 1
+   fbd 0.4921
+   fbh 0.4921
+   bbt 0
+   bbd 0.4921
+   bbh 0.4921
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 37.30629,37.29857,18.53107
+      mat -0.70648,-0.35464,0.61234,0.70761,-0.35294,0.612,-0.00089,0.86578,0.50046
+      }
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    ca {
+     nm "Caméra 2"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 13.0246,0,-7.75615
+      mat 0.00021,-0.00018,0.99997,0.99994,0,-0.00018,0.00003,0.99994,0.00021
+      }
+     proj {
+      iso {
+       zoom 5.42348
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst -0.56693,1.27559
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -5.74892,-0.13222,-7.58707
+      mat 0.00015,0.99994,0,-0.99994,0.00015,0,0,0,1
+      hp 0.02997,0.49994,1.37195
+      }
+     defo {
+      affi {
+       ScaX 0.28502
+       ScaY 0.99988
+       ScaZ 0.53699
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.99985,0.79616,0
+            }
+           sval {
+            prkd 1
+            Val 0.84679
+            }
+           sval {
+            prkd 1
+            Val 0.0645
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0.24474
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "SPEEDY BLUPI"
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 45
+       fall 0
+       brit 0.99648
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière2"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 7.37407,14.37325,-5.12598
+      mat -0.7894,-0.09708,0.60605,0.6138,-0.12448,0.77954,-0.00021,0.98743,0.15796
+      }
+     only 0
+     }
+    }
+   boxM 39.86377,39.85548,20.33194
+   boxm -7.62405,-8.74899,-13.99852
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

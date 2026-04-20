@@ -1,0 +1,1792 @@
+3DC {
+ asci 1
+ vs "1.0"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 64
+  heig 64
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra 2"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    OVER 1
+    MAXR 2
+    MAXT 6
+    MAXA 2
+    FLAT 1
+    LITE 1
+    DRLC 0
+    QD3D 0
+    GBCK 1
+    }
+   }
+  oopt 1
+  Ofil "C:\\PROGRAM FILES\\RAYDREAM40\\RayDream.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 1800,1800
+   FSec 1
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra 2"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 4
+     locV 722
+     sizH 993
+     sizV 359
+     flot 0
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 6
+     locV 25
+     sizH 1170
+     sizV 670
+     flot 0
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra 2"
+ ShLv 3
+ Zoom 8
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 189,0,842,1024
+ }
+      }
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,399,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ back {
+  colo {
+   colo 0.5,0.5,0.5
+   }
+  }
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 0.50632
+   }
+  }
+ }
+sc {
+ nm "interrupteur"
+ nxtL 1
+ nxtC 2
+ nxtG 5
+ nxtO 0
+ ob {
+  ex {
+   nm "Assistant 3D"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 0
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-1,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        pc {
+         mode 0
+         type 1
+         styl {
+          fill 0,1,1,1,0
+          strk 0,0,0,0,0
+          wdth 0
+          isfi 0
+          cap 1
+          join 1
+          }
+         p2 {
+          st -0.5,1
+          ss {
+           s1 -0.5,-1
+           s1 0.5,-1
+           s1 0.5,1
+           s1 -0.5,1
+           }
+          }
+         pg {
+          mode 0
+          type 0
+          styl {
+           fill 0,1,1,1,0
+           strk 0,0,0,0,0
+           wdth 0
+           isfi 0
+           cap 1
+           join 1
+           }
+          p2 {
+           st -0.24997,-0.74991
+           ss {
+            s1 -0.24997,0.74991
+            s1 0.24997,0.74991
+            s1 0.24997,-0.74991
+            s1 -0.24997,-0.74991
+            }
+           }
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,1,0
+     cv 0,1,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.24997
+    incr 1
+    show 1
+    snap 1
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  ex {
+   nm "Assistant 3D 1"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 1
+   evs 1
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-2,0
+     cnc 0,-2,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -0.5,0
+         ss {
+          s3 -0.5,-0.27614,-0.27614,-0.5,0,-0.5
+          s3 0.27614,-0.5,0.5,-0.27614,0.5,0
+          s3 0.5,0.27614,0.27614,0.5,0,0.5
+          s3 -0.27614,0.5,-0.5,0.27614,-0.5,0
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,-1.5,0
+     cv 0,-1.5,0
+     cnc 0,-1.5,0
+     tpc 2,0
+     tv 2,0
+     tnc 2,0
+     bpc 2,0
+     bv 2,0
+     bnc 2,0
+     lpc 2,0
+     lv 2,0
+     lnc 2,0
+     rpc 2,0
+     rv 2,0
+     rnc 2,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    sap {
+     cpc 0,1.5,0
+     cv 0,1.5,0
+     cnc 0,1.5,0
+     tpc 2,0
+     tv 2,0
+     tnc 2,0
+     bpc 2,0
+     bv 2,0
+     bnc 2,0
+     lpc 2,0
+     lv 2,0
+     lnc 2,0
+     rpc 2,0
+     rv 2,0
+     rnc 2,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    sap {
+     cpc 0,2,0
+     cv 0,2,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.5
+    incr 1
+    show 1
+    snap 1
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  cube {
+   prim {
+    cube {
+     }
+    }
+   nm "Cube"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  cube {
+   prim {
+    cube {
+     }
+    }
+   nm "Cube 1"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  ex {
+   nm "Mur fond 1"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 0
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-1,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -0.99988,0.99988
+         ss {
+          s1 -1,-1
+          s1 1,-1
+          s1 1,1
+          s1 -0.99988,0.99988
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,1,0
+     cv 0,1,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.24997
+    incr 1
+    show 1
+    snap 1
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  sp {
+   prim {
+    sp {
+     }
+    }
+   nm "Sphère"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 34.68631,36.92389,24.94164
+      mat -0.70694,-0.2449,0.66327,0.707,-0.24475,0.6633,-0.00006,0.93802,0.34641
+      }
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      dist {
+       colo 0.5,0.5,0.5
+       brit 2
+       shad 1
+       dire 0.58452,-0.63176,0.50911
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 20.00055,-5.23636,-3.58916
+      mat 0.15445,-0.40033,0.90323,0.98798,0.06293,-0.14102,-0.00034,0.91415,0.4053
+      Scal 1.09322
+      }
+     defo {
+      affi {
+       ScaX 1.02576
+       ScaY 4.51076
+       ScaZ 1.03873
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     only 0
+     }
+    ca {
+     nm "Caméra 2"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 4.8494,-4.15294,-10.36591
+      mat 0.00024,-0.00021,0.99997,0.99997,0,-0.00021,0.00003,0.99997,0.00024
+      }
+     proj {
+      iso {
+       zoom 6.21828
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 4.39371,5.52756
+     }
+    gr {
+     nm "Groupe4"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -14.06624,-3.39615,-9.52393
+      Scal 0.73671
+      hp 4.0683,-5.50008,-7.49985
+      }
+     so {
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po 3.99544,-4.05222,-1.93192
+        Scal 0.32793
+        }
+       Atre {
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            ACom {
+             }
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0.5,0,0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              ACom {
+               COLO {
+                time 0
+                colo RGB(0,0,0)
+                void 0
+                time 1800
+                colo RGB(0.99998474,0,0)
+                void 0
+                }
+               }
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          Ashe {
+           }
+          }
+         }
+        }
+       ob "Sphère"
+       }
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po 3.99556,-6.52534,-1.94745
+        Scal 0.32799
+        }
+       Atre {
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            ACom {
+             }
+            prkd 1
+            ssub {
+             sclr {
+              ACom {
+               COLO {
+                time 0
+                colo RGB(0,0.99607849,0)
+                void 0
+                time 1800
+                colo RGB(0,0.5,0)
+                void 0
+                }
+               }
+              prkd 1
+              colr 0,0.99608,0
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              ACom {
+               COLO {
+                time 0
+                colo RGB(0,0.99609375,0)
+                void 0
+                time 1800
+                colo RGB(0.00001525,0,0)
+                void 0
+                }
+               }
+              prkd 1
+              colr 0,0.99609,0
+              }
+             }
+            }
+           }
+          opac 1
+          Ashe {
+           }
+          }
+         }
+        }
+       ob "Sphère"
+       }
+      inpr {
+       nm "fond"
+       AnTr 1
+       Cloa 1
+       tran {
+        po 3.50037,-5.63026,-7.49974
+        mat 0.00009,-0.99997,0,0.99997,0.00009,0,0,0,1
+        Scal 0.99983
+        }
+       defo {
+        affi {
+         ScaX 4.7058
+         ScaY 0.49982
+         ScaZ 7.84727
+         R1,1 1
+         R1,2 0
+         R1,3 0
+         R2,1 0
+         R2,2 1
+         R2,3 0
+         R3,1 0
+         R3,2 0
+         R3,3 1
+         Tra1 0
+         Tra2 0
+         Tra3 0
+         }
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0,0.75,0.99608
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0.2473
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Mur fond 1"
+       }
+      }
+     boxM 4.97946,-0.9254,0.34595
+     boxm 3.00018,-10.33519,-15.34547
+     open 1
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -14.62291,-2.31789,-10.11432
+      mat 0.00009,-0.99997,0,0.99997,0.00009,0,0,0,1
+      }
+     defo {
+      affi {
+       ScaX 1.85831
+       ScaY 1.10123
+       ScaZ 2.91446
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.75,0.99608
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0.2473
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Assistant 3D"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -14.60109,-2.33582,-10.16714
+      mat 0.86606,0,-0.49994,0,1,0,0.49994,0,0.86606
+      hp -1.22321,0,-0.00313
+      ATra {
+       ORIE {
+        time 0
+        ROTA 0.96591186,0,0.25880432,0,0
+        void 0
+        time 1800
+        ROTA 0.96591186,0,-0.25880432,0,0
+        void 0
+        }
+       }
+      }
+     defo {
+      affi {
+       ScaX 0.48755
+       ScaY 0.14301
+       ScaZ 0.09882
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     so {
+      inpr {
+       AnTr 1
+       Cloa 1
+       tran {
+        po 1.15677,0.01532,-0.02199
+        Scal 0.73813
+        }
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            prkd 1
+            ssub {
+             sclr {
+              prkd 1
+              colr 0.99985,0.79616,0
+              }
+             sval {
+              prkd 1
+              Val 0.84679
+              }
+             sval {
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0.24474
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sval {
+              prkd 1
+              Val 0
+              }
+             sclr {
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            }
+           }
+          opac 1
+          }
+         }
+        }
+       ob "Assistant 3D 1"
+       }
+      }
+     Atre {
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.33318,0.33318,0.33318
+            }
+           sval {
+            prkd 1
+            Val 0.84679
+            }
+           sval {
+            prkd 1
+            Val 0.8978
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0.04602
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cube"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -14.45378,-5.14398,-8.02917
+      }
+     defo {
+      affi {
+       ScaX 0.3161
+       ScaY 0.49403
+       ScaZ 0.3264
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       srct {
+        uvsp 0
+        aexp 0
+        bbox 1.08009,1.05948,1.91808,1.95918
+        mbox 1.08009,1.05948,1.91808,1.95918
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             }
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "12:00:5312354057"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.99998,0.99998,0.99998
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cube 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -14.45378,-5.08723,-12.19728
+      }
+     defo {
+      affi {
+       ScaX 0.3161
+       ScaY 0.49403
+       ScaZ 0.3264
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       srct {
+        uvsp 0
+        aexp 0
+        bbox 1.08009,1.05948,1.91808,1.95918
+        mbox 1.08009,1.05948,1.91808,1.95918
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             }
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 1
+              TIME "12:00:5312354057"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.99998,0.99998,0.99998
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cube 1"
+     }
+    }
+   boxM 37.1313,39.36884,26.6953
+   boxm -15.72426,-6.15323,-15.30446
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    ROBJ {
+     IDEN {
+      REFN 0
+      TIME "12:00:5312354057"
+      }
+     DATA {
+      stor 0
+      w 100
+      h 60
+      dpth 32
+      tils 64,64
+      TDTA {
+       TILE $FFFFFFFF81FF81FF81FF81FF81FF81FFEBFF04E08B604016FC0003404B80C0F1FF00E0F78000EAEEFF02EA8B2BF300021660E0F4FF00C0F700006BEFFF01A016EE000160EAF6FF00C0F600F1FF01EA4BEB000116D5F7FF00C0F600F2FF01EA2BE80000AAF8FF00C0F600F3FF01EA2BE60000CAF9FF00C0F600F3FF0055E5000116EAFAFF00C0F600F4FF00B5E3000060FAFF00C0F600F4FF0020F60007208BD5FFFFE0A036F50000D5FBFF00C0F600F5FF00B5F600014BEAFAFF0095F6000060FBFF00C0F600F5FF004BF7000036F7FF0080F7000016FBFF00C0F600F5FF0016F70000E0F6FF0020F70000B5FCFF00C0F600F6FF00C0F700004BF5FF008BF7000080FCFF00C0F600F6FF008BF700008BF5FF00E0F7000040FCFF00C0F600F6FF0080F70000C0F4FFF700002BFCFF00C0F600F6FF0040F70000EAF4FF0040F700FCFF00C0F600F6FF0040F700F3FF0040F700FCFF00C0F7000036F6FF0040F700F3FF0040F700FCFF00C0F70000E0F6FF0040F700F3FF0040F700FCFF00C0F700F5FF0040F700F3FF002BF700FCFF00C0F700F5FF0075F70000C0F4FFF700002BFCFF00C0F700F5FF0080F70000A0F5FF00E0F7000040FCFF00C0F700F5FF00C0F7000060F5FF00A0F7000075FCFF00C0F700F5FF00EAF7000116EAF6FF0036F70000B5FCFF00C0F700F4FF002BF700006BF7FF00CAF60000EAFCFF00C0F700F4FF00A0F60000AAF9FF01D516F700004BFBFF00C0F700F4FF01EA16F600014BD5FDFF02E08016F60000B5FBFF00C0F700F3FF0095F4000316404020F4000036FAFF00C0F700F2FF002BE40000D5FAFF00C0F700F2FF01E016E6000095F9FF00C0F700F1FF01D516E8000055F8FF00C0F700F0FF01D516EA000080F7FF00C0F700EFFF01EA36ED000120CAF6FF00C0F700EDFF01CA36F100022080EAF5FF00C0F700EBFF03E08B4B20F800024075B5F2FF00D5F740E6FF00E0FCC000EA81FF81FF81FF81FF81FF81FFE2FF81FF81FF81FF81FF81FF81FFEBFF04E08B604016FC0003404B80C0F1FF00E0F78000EAEEFF02EA8B2BF300021660E0F4FF00C0F700006BEFFF01A016EE000160EAF6FF00C0F600F1FF01EA4BEB000116D5F7FF00C0F600F2FF01EA2BE80000AAF8FF00C0F600F3FF01EA2BE60000CAF9FF00C0F600F3FF0055E5000116EAFAFF00C0F600F4FF00B5E3000060FAFF00C0F600F4FF0020F60007208BD5FFFFE0A036F50000D5FBFF00C0F600F5FF00B5F600014BEAFAFF0095F6000060FBFF00C0F600F5FF004BF7000036F7FF0080F7000016FBFF00C0F600F5FF0016F70000E0F6FF0020F70000B5FCFF00C0F600F6FF00C0F700004BF5FF008BF7000080FCFF00C0F600F6FF008BF700008BF5FF00E0F7000040FCFF00C0F600F6FF0080F70000C0F4FFF700002BFCFF00C0F600F6FF0040F70000EAF4FF0040F700FCFF00C0F600F6FF0040F700F3FF0040F700FCFF00C0F7000036F6FF0040F700F3FF0040F700FCFF00C0F70000E0F6FF0040F700F3FF0040F700FCFF00C0F700F5FF0040F700F3FF002BF700FCFF00C0F700F5FF0075F70000C0F4FFF700002BFCFF00C0F700F5FF0080F70000A0F5FF00E0F7000040FCFF00C0F700F5FF00C0F7000060F5FF00A0F7000075FCFF00C0F700F5FF00EAF7000116EAF6FF0036F70000B5FCFF00C0F700F4FF002BF700006BF7FF00CAF60000EAFCFF00C0F700F4FF00A0F60000AAF9FF01D516F700004BFBFF00C0F700F4FF01EA16F600014BD5FDFF02E08016F60000B5FBFF00C0F700F3FF0095F4000316404020F4000036FAFF00C0F700F2FF002BE40000D5FAFF00C0F700F2FF01E016E6000095F9FF00C0F700F1FF01D516E8000055F8FF00C0F700F0FF01D516EA000080F7FF00C0F700EFFF01EA36ED000120CAF6FF00C0F700EDFF01CA36F100022080EAF5FF00C0F700EBFF03E08B4B20F800024075B5F2FF00D5F740E6FF00E0FCC000EA81FF81FF81FF81FF81FF81FFE2FF81FF81FF81FF81FF81FF81FFEBFF04E08B604016FC0003404B80C0F1FF00E0F78000EAEEFF02EA8B2BF300021660E0F4FF00C0F700006BEFFF01A016EE000160EAF6FF00C0F600F1FF01EA4BEB000116D5F7FF00C0F600F2FF01EA2BE80000AAF8FF00C0F600F3FF01EA2BE60000CAF9FF00C0F600F3FF0055E5000116EAFAFF00C0F600F4FF00B5E3000060FAFF00C0F600F4FF0020F60007208BD5FFFFE0A036F50000D5FBFF00C0F600F5FF00B5F600014BEAFAFF0095F6000060FBFF00C0F600F5FF004BF7000036F7FF0080F7000016FBFF00C0F600F5FF0016F70000E0F6FF0020F70000B5FCFF00C0F600F6FF00C0F700004BF5FF008BF7000080FCFF00C0F600F6FF008BF700008BF5FF00E0F7000040FCFF00C0F600F6FF0080F70000C0F4FFF700002BFCFF00C0F600F6FF0040F70000EAF4FF0040F700FCFF00C0F600F6FF0040F700F3FF0040F700FCFF00C0F7000036F6FF0040F700F3FF0040F700FCFF00C0F70000E0F6FF0040F700F3FF0040F700FCFF00C0F700F5FF0040F700F3FF002BF700FCFF00C0F700F5FF0075F70000C0F4FFF700002BFCFF00C0F700F5FF0080F70000A0F5FF00E0F7000040FCFF00C0F700F5FF00C0F7000060F5FF00A0F7000075FCFF00C0F700F5FF00EAF7000116EAF6FF0036F70000B5FCFF00C0F700F4FF002BF700006BF7FF00CAF60000EAFCFF00C0F700F4FF00A0F60000AAF9FF01D516F700004BFBFF00C0F700F4FF01EA16F600014BD5FDFF02E08016F60000B5FBFF00C0F700F3FF0095F4000316404020F4000036FAFF00C0F700F2FF002BE40000D5FAFF00C0F700F2FF01E016E6000095F9FF00C0F700F1FF01D516E8000055F8FF00C0F700F0FF01D516EA000080F7FF00C0F700EFFF01EA36ED000120CAF6FF00C0F700EDFF01CA36F100022080EAF5FF00C0F700EBFF03E08B4B20F800024075B5F2FF00D5F740E6FF00E0FCC000EA81FF81FF81FF81FF81FF81FFE2FF$
+       TILE $FFFFFFFF81FF81FF81FFC6FF00E0F780E8FF00C0F700F3FF00B5F7FF00C0F700F3FF0116EAF8FF00C0F700F3FF01004BF8FF00C0F700F3FFFF0000B5F9FF00C0F700F3FFFF000116E0FAFF00C0F700F3FFFE000036FAFF00C0F700F3FFFD000095FBFF00C0F700F3FFFD000116E0FCFF00C0F700F3FFFC00002BFCFF00C0F700F3FFFB000080FDFF00C0F700F3FFFA0000D5FEFF00C0F700F3FFFA00002BFEFF00C0F700F3FFF900036BFFFFC0F700F3FFF80002CAFFC0F700F3FFF8000220EAC0F700F3FF0016F800016BC0F700F3FF0095F700008BF700F2FF0036ED00F2FF01EA16EE00F1FF00B5EE00F0FF004BEF00F0FF01EA16F000EFFF00CAF000EEFF006BF100EEFF01EA20F200EDFF00CAF200ECFF006BF300EBFF002BF400EBFF00D5F400EAFF0080F500E9FF002BF600E9FF01E016F700E8FF00AAF74081FF81FF81FF9FFF81FF81FF81FFC6FF00E0F780E8FF00C0F700F3FF00B5F7FF00C0F700F3FF0116EAF8FF00C0F700F3FF01004BF8FF00C0F700F3FFFF0000B5F9FF00C0F700F3FFFF000116E0FAFF00C0F700F3FFFE000036FAFF00C0F700F3FFFD000095FBFF00C0F700F3FFFD000116E0FCFF00C0F700F3FFFC00002BFCFF00C0F700F3FFFB000080FDFF00C0F700F3FFFA0000D5FEFF00C0F700F3FFFA00002BFEFF00C0F700F3FFF900036BFFFFC0F700F3FFF80002CAFFC0F700F3FFF8000220EAC0F700F3FF0016F800016BC0F700F3FF0095F700008BF700F2FF0036ED00F2FF01EA16EE00F1FF00B5EE00F0FF004BEF00F0FF01EA16F000EFFF00CAF000EEFF006BF100EEFF01EA20F200EDFF00CAF200ECFF006BF300EBFF002BF400EBFF00D5F400EAFF0080F500E9FF002BF600E9FF01E016F700E8FF00AAF74081FF81FF81FF9FFF81FF81FF81FFC6FF00E0F780E8FF00C0F700F3FF00B5F7FF00C0F700F3FF0116EAF8FF00C0F700F3FF01004BF8FF00C0F700F3FFFF0000B5F9FF00C0F700F3FFFF000116E0FAFF00C0F700F3FFFE000036FAFF00C0F700F3FFFD000095FBFF00C0F700F3FFFD000116E0FCFF00C0F700F3FFFC00002BFCFF00C0F700F3FFFB000080FDFF00C0F700F3FFFA0000D5FEFF00C0F700F3FFFA00002BFEFF00C0F700F3FFF900036BFFFFC0F700F3FFF80002CAFFC0F700F3FFF8000220EAC0F700F3FF0016F800016BC0F700F3FF0095F700008BF700F2FF0036ED00F2FF01EA16EE00F1FF00B5EE00F0FF004BEF00F0FF01EA16F000EFFF00CAF000EEFF006BF100EEFF01EA20F200EDFF00CAF200ECFF006BF300EBFF002BF400EBFF00D5F400EAFF0080F500E9FF002BF600E9FF01E016F700E8FF00AAF74081FF81FF81FF9FFF$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       }
+      }
+     }
+    ROBJ {
+     IDEN {
+      REFN 1
+      TIME "12:00:5312354057"
+      }
+     DATA {
+      stor 0
+      w 100
+      h 60
+      dpth 32
+      tils 64,64
+      TDTA {
+       TILE $FFFFFFFF81FF81FF81FF81FF81FFB2FF04E08B604016FC0003404B80C0F5FF00E0EB80F5FF02EA8B2BF300021660E0F8FF00C0EB00F6FF01A016EE000160EAFAFF00C0EB00F8FF01EA4BEB000116D5FBFF00C0EB00F9FF01EA2BE80000AAFCFF00C0EB00FAFF01EA2BE60000CAFDFF00C0EB00FAFF0055E5000116EAFEFF00C0EB00FBFF00B5E3000060FEFF00C0EB00FBFF0020F60007208BD5FFFFE0A036F50003D5FFFFC0F7000040F1FF00B5F600014BEAFAFF0095F6000360FFFFC0F7000040F1FF004BF7000036F7FF0080F7000316FFFFC0F7000040F1FF0016F70000E0F6FF0020F70002B5FFC0F7000040F2FF00C0F700004BF5FF008BF7000280FFC0F7000040F2FF008BF700008BF5FF00E0F7000240FFC0F700002BF6C0FDFF0080F70000C0F4FFF700022BFFC0EB00FDFF0040F70000EAF4FF0040F70001FFC0EB00FDFF0040F700F3FF0040F70001FFC0EB00FDFF0040F700F3FF0040F70001FFC0EB00FDFF0040F700F3FF0040F70001FFC0EB00FDFF0040F700F3FF002BF70001FFC0EB00FDFF0075F70000C0F4FFF700022BFFC0F7000016F640FDFF0080F70000A0F5FF00E0F7000240FFC0F7000040F2FF00C0F7000060F5FF00A0F7000275FFC0F7000040F2FF00EAF7000116EAF6FF0036F70002B5FFC0F7000040F1FF002BF700006BF7FF00CAF60002EAFFC0F7000040F1FF00A0F60000AAF9FF01D516F700034BFFFFC0F7000040F1FF01EA16F600014BD5FDFF02E08016F60003B5FFFFC0F7000040F0FF0095F4000316404020F4000036FEFF00C0F7000040EFFF002BE40000D5FEFF00C0F7000040EFFF01E016E6000095FDFF00C0F7000040EEFF01D516E8000055FCFF00C0F7000040EDFF01D516EA000080FBFF00C0F7000040ECFF01EA36ED000120CAFAFF00C0F7000040EAFF01CA36F100022080EAF9FF00C0F7000040E8FF03E08B4B20F800024075B5F6FF00D5F740006BE3FF00E0FCC000EA81FF81FF81FF81FF81FF81FF9BFF81FF81FF81FF81FF81FFB2FF04E08B604016FC0003404B80C0F5FF00E0EB80F5FF02EA8B2BF300021660E0F8FF00C0EB00F6FF01A016EE000160EAFAFF00C0EB00F8FF01EA4BEB000116D5FBFF00C0EB00F9FF01EA2BE80000AAFCFF00C0EB00FAFF01EA2BE60000CAFDFF00C0EB00FAFF0055E5000116EAFEFF00C0EB00FBFF00B5E3000060FEFF00C0EB00FBFF0020F60007208BD5FFFFE0A036F50003D5FFFFC0F7000040F1FF00B5F600014BEAFAFF0095F6000360FFFFC0F7000040F1FF004BF7000036F7FF0080F7000316FFFFC0F7000040F1FF0016F70000E0F6FF0020F70002B5FFC0F7000040F2FF00C0F700004BF5FF008BF7000280FFC0F7000040F2FF008BF700008BF5FF00E0F7000240FFC0F700002BF6C0FDFF0080F70000C0F4FFF700022BFFC0EB00FDFF0040F70000EAF4FF0040F70001FFC0EB00FDFF0040F700F3FF0040F70001FFC0EB00FDFF0040F700F3FF0040F70001FFC0EB00FDFF0040F700F3FF0040F70001FFC0EB00FDFF0040F700F3FF002BF70001FFC0EB00FDFF0075F70000C0F4FFF700022BFFC0F7000016F640FDFF0080F70000A0F5FF00E0F7000240FFC0F7000040F2FF00C0F7000060F5FF00A0F7000275FFC0F7000040F2FF00EAF7000116EAF6FF0036F70002B5FFC0F7000040F1FF002BF700006BF7FF00CAF60002EAFFC0F7000040F1FF00A0F60000AAF9FF01D516F700034BFFFFC0F7000040F1FF01EA16F600014BD5FDFF02E08016F60003B5FFFFC0F7000040F0FF0095F4000316404020F4000036FEFF00C0F7000040EFFF002BE40000D5FEFF00C0F7000040EFFF01E016E6000095FDFF00C0F7000040EEFF01D516E8000055FCFF00C0F7000040EDFF01D516EA000080FBFF00C0F7000040ECFF01EA36ED000120CAFAFF00C0F7000040EAFF01CA36F100022080EAF9FF00C0F7000040E8FF03E08B4B20F800024075B5F6FF00D5F740006BE3FF00E0FCC000EA81FF81FF81FF81FF81FF81FF9BFF81FF81FF81FF81FF81FFB2FF04E08B604016FC0003404B80C0F5FF00E0EB80F5FF02EA8B2BF300021660E0F8FF00C0EB00F6FF01A016EE000160EAFAFF00C0EB00F8FF01EA4BEB000116D5FBFF00C0EB00F9FF01EA2BE80000AAFCFF00C0EB00FAFF01EA2BE60000CAFDFF00C0EB00FAFF0055E5000116EAFEFF00C0EB00FBFF00B5E3000060FEFF00C0EB00FBFF0020F60007208BD5FFFFE0A036F50003D5FFFFC0F7000040F1FF00B5F600014BEAFAFF0095F6000360FFFFC0F7000040F1FF004BF7000036F7FF0080F7000316FFFFC0F7000040F1FF0016F70000E0F6FF0020F70002B5FFC0F7000040F2FF00C0F700004BF5FF008BF7000280FFC0F7000040F2FF008BF700008BF5FF00E0F7000240FFC0F700002BF6C0FDFF0080F70000C0F4FFF700022BFFC0EB00FDFF0040F70000EAF4FF0040F70001FFC0EB00FDFF0040F700F3FF0040F70001FFC0EB00FDFF0040F700F3FF0040F70001FFC0EB00FDFF0040F700F3FF0040F70001FFC0EB00FDFF0040F700F3FF002BF70001FFC0EB00FDFF0075F70000C0F4FFF700022BFFC0F7000016F640FDFF0080F70000A0F5FF00E0F7000240FFC0F7000040F2FF00C0F7000060F5FF00A0F7000275FFC0F7000040F2FF00EAF7000116EAF6FF0036F70002B5FFC0F7000040F1FF002BF700006BF7FF00CAF60002EAFFC0F7000040F1FF00A0F60000AAF9FF01D516F700034BFFFFC0F7000040F1FF01EA16F600014BD5FDFF02E08016F60003B5FFFFC0F7000040F0FF0095F4000316404020F4000036FEFF00C0F7000040EFFF002BE40000D5FEFF00C0F7000040EFFF01E016E6000095FDFF00C0F7000040EEFF01D516E8000055FCFF00C0F7000040EDFF01D516EA000080FBFF00C0F7000040ECFF01EA36ED000120CAFAFF00C0F7000040EAFF01CA36F100022080EAF9FF00C0F7000040E8FF03E08B4B20F800024075B5F6FF00D5F740006BE3FF00E0FCC000EA81FF81FF81FF81FF81FF81FF9BFF$
+       TILE $FFFFFFFF81FF81FF81FFF5FFFD8002E0FFE0E78002E0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70000C0F9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040EFFFFFC0FDFF00C0F700002BF4C0FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF40FDFF00C0F7000016F440F6FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00D5F740006B81FF81FF81FF81FFF7FF81FF81FF81FFF5FFFD8002E0FFE0E78002E0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70000C0F9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040EFFFFFC0FDFF00C0F700002BF4C0FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF40FDFF00C0F7000016F440F6FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00D5F740006B81FF81FF81FF81FFF7FF81FF81FF81FFF5FFFD8002E0FFE0E78002E0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70002C0FFFFFD0002C0FFC0E70000C0F9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040EFFFFFC0FDFF00C0F700002BF4C0FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF00FDFF00C0E900FCFFFF40FDFF00C0F7000016F440F6FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00C0F7000040E9FF00D5F740006B81FF81FF81FF81FFF7FF$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       }
+      }
+     }
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

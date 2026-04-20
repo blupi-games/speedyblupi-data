@@ -1,0 +1,526 @@
+3DC {
+ asci 1
+ vs "5.0"
+ sf "Ray Dream Studio(TM) 5"
+ vers "5.0.2"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 60
+  heig 60
+  dpi 72
+  pxlr 1
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came ""
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    SHAD 1
+    OVER 1
+    DBG1 0
+    DBG2 0
+    DBG3 0
+    DBG4 0
+    ERR1 0
+    MAXT 6
+    DBGV 32768
+    FLAT 1
+    LTWD 0
+    OVRQ 0
+    OPTI 0
+    ZOOM 1
+    Shdw 1
+    Flec 1
+    Tran 1
+    LTTO 0
+    BUMP 1
+    FRAC 1
+    MaxD 25
+    isEx 1
+    }
+   }
+  oopt 1
+  Ofil ""
+  movi 0
+  tchf 0
+  ESMP 1
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   FMod 0
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  }
+ kind scn
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 5
+     locV 869
+     sizH 975
+     sizV 213
+     flot 0
+     shwn 1
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 6
+     locV 25
+     sizH 950
+     sizV 784
+     flot 0
+     shwn 1
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra 1"
+ ShLv 3
+ Zoom 5
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 0,0,432,432
+ }
+      }
+     }
+    winf {
+     type 1399018356
+     locH 282
+     locV 254
+     sizH 416
+     sizV 288
+     flot 0
+     shwn 0
+     stat 1
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ lock 0
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Rendu"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "Contrôle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,525,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Internet"
+ dwin {
+  shwn 0
+  dsts 2
+  lsts 2
+  ubnd 25,25,54,171
+  dbnd 0,0,0,0
+  nbnd 25,25,54,171
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 1
+   isEx 0
+   }
+  }
+ data {
+  phpr {
+   sima 1835361385
+   enab 1
+   surf 1819244385
+   isEx 1
+   }
+  }
+ }
+sc {
+ nm "Doc2"
+ hjmp 0
+ nxtL 1
+ nxtC 1
+ nxtG 0
+ nxtO 0
+ ob {
+  cyli {
+   prim {
+    cyli {
+     isEx 1
+     }
+    }
+   nm "Cylindre"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        isEx 1
+        prkd 1
+        ssub {
+         sclr {
+          isEx 1
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sclr {
+          isEx 1
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        ampl 1
+        }
+       }
+      opac 1
+      isEx 0
+      }
+     }
+    }
+   hjmp 1
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   Cast 1
+   tran {
+    po 0,0,0
+    }
+   MPSt 0
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 29.52756,29.52756,29.52756
+      mat -0.70694,-0.40845,0.57726,0.70714,-0.40807,0.57726,-0.00017,0.81641,0.57747
+      }
+     MPSt 0
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       isEx 1
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 45
+       fall 0
+       brit 1
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       '''' 10
+       isEx 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 13.77953,-13.77953,13.77953
+      mat 0.70717,-0.40833,0.57724,0.70702,0.40833,-0.57738,0.00002,0.81641,0.57747
+      }
+     MPSt 0
+     only 0
+     shdF {
+      RayT {
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     nm "Cylindre rouge"
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 1.49985,-6.49939,-14.99863
+      Scal 0.49994
+      hp 0,0,-2.49942
+      }
+     xyzS 1,1,4.80069
+     MPSt 0
+     so {
+      inpr {
+       nm "Cylindre jaune"
+       AnTr 1
+       Cloa 1
+       Cast 1
+       tran {
+        po -0.00002,-0.00043,0.00049
+        mat 1,0,0,0,-0.00014,0.99997,0,-0.99997,-0.00014
+        Scal 0.49994
+        hp 0,0,-2.49942
+        }
+       xyzS 1,1,4.80069
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            isEx 1
+            prkd 1
+            ssub {
+             sclr {
+              isEx 1
+              prkd 1
+              colr 0.99985,0.99985,0
+              }
+             sval {
+              isEx 1
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              isEx 1
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              isEx 1
+              prkd 1
+              Val 0
+              }
+             sval {
+              isEx 1
+              prkd 1
+              Val 0
+              }
+             sval {
+              isEx 1
+              prkd 1
+              Val 0
+              }
+             sval {
+              isEx 1
+              prkd 1
+              Val 0
+              }
+             sclr {
+              isEx 1
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            ampl 1
+            }
+           }
+          opac 1
+          isEx 0
+          }
+         }
+        }
+       ob "Cylindre"
+       fleF {
+        RayT {
+         maxF 2
+         isEx 1
+         }
+        }
+       fraF {
+        RayT {
+         maxF 2
+         isEx 1
+         }
+        }
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       }
+      }
+     ob "Cylindre"
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    }
+   boxM 32.13136,32.13118,31.32997
+   boxm 0.00002,-16.04962,-15.00002
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

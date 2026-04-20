@@ -1,0 +1,1317 @@
+3DC {
+ asci 1
+ vs "5.0"
+ sf "Ray Dream Studio(TM) 5"
+ vers "5.0.2"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 64
+  heig 64
+  dpi 72
+  pxlr 1
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra 2"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    SHAD 1
+    OVER 1
+    DBG1 0
+    DBG2 0
+    DBG3 0
+    DBG4 0
+    ERR1 0
+    MAXT 6
+    DBGV 32768
+    FLAT 1
+    LTWD 0
+    OVRQ 0
+    OPTI 0
+    ZOOM 1
+    Shdw 1
+    Flec 1
+    Tran 1
+    LTTO 0
+    BUMP 1
+    FRAC 1
+    MaxD 25
+    isEx 1
+    }
+   }
+  oopt 1
+  Ofil "C:\\PROGRAM FILES\\RAYDREAM50\\RayDream.tif"
+  movi 0
+  tchf 0
+  ESMP 1
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   FMod 0
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra 2"
+  }
+ kind scn
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 4
+     locV 722
+     sizH 993
+     sizV 359
+     flot 0
+     shwn 1
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 6
+     locV 25
+     sizH 1170
+     sizV 670
+     flot 0
+     shwn 1
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra 2"
+ ShLv 3
+ Zoom 6
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 0,0,653,864
+ }
+      }
+     }
+    winf {
+     type 1399018356
+     locH 282
+     locV 254
+     sizH 416
+     sizV 288
+     flot 0
+     shwn 0
+     stat 1
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ lock 0
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Rendu"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "Contrôle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Internet"
+ dwin {
+  shwn 0
+  dsts 2
+  lsts 2
+  ubnd 25,25,54,171
+  dbnd 0,0,0,0
+  nbnd 25,25,54,171
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,363,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ back {
+  colo {
+   colo 0.5,0.5,0.5
+   isEx 1
+   }
+  }
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 0.50632
+   isEx 0
+   }
+  }
+ data {
+  phpr {
+   sima 1835361385
+   enab 1
+   surf 1819244385
+   isEx 1
+   }
+  }
+ }
+sc {
+ nm "tenta15"
+ hjmp 0
+ nxtL 2
+ nxtC 2
+ nxtG 4
+ nxtO 0
+ ob {
+  vmda {
+   prim {
+    vmda {
+     Mode 1
+     Zoom 0
+     ZIni 0
+     ZMin 0
+     ZMax 0
+     ScrH 0
+     ScrV 0
+     CaIx 0
+     CaIy 0
+     CaIz 0
+     CaJx 0
+     CaJy 0
+     CaJz 0
+     CaKx 0
+     CaKy 0
+     CaKz 0
+     PlIx 0
+     PlIy 0
+     PlIz 0
+     PlJx 0
+     PlJy 0
+     PlJz 0
+     PlKx 0
+     PlKy 0
+     PlKz 0
+     PlCx 0
+     PlCy 0
+     PlCz 0
+     PlAc 0
+     PlSB 1
+     PlSR 0
+     PlSL 0
+     PlSP 0
+     PlDL 0
+     PLST 0
+     PlSH 0
+     PlSN 0
+     PlDx 0
+     PlDy 0
+     PlDz 0
+     NEW 1
+     HSNM 0
+     isEx 1
+     }
+    }
+   nm "Form0"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        isEx 1
+        prkd 1
+        ssub {
+         sclr {
+          isEx 1
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sclr {
+          isEx 1
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        ampl 1
+        }
+       }
+      opac 1
+      isEx 0
+      }
+     }
+    }
+   hjmp 1
+   fidl 1
+   xprm {
+    PmSt {
+     Pmsh {
+      CAng 80
+      UVMo 0
+      UPSA 0,1
+      ABoo 19
+      USMn 0,0
+      USMx 1,1
+      UAxM 2
+      UAxs 0,0,0
+      UMaI 0,0,0
+      UMaJ 0,0,0
+      UMaK 0,0,0
+      Vrts {
+       VerD {
+        Posn 4.58024883,14.94881820,0.65120100
+        Flag 0
+        UV 0.30561918,0.19952553
+        }
+       VerD {
+        Posn 22.30815696,-0.29629001,-0.22570900
+        Flag 32
+        UV 0.99616074,0.15704086
+        }
+       VerD {
+        Posn 1.12838602,-14.94881820,0.53505402
+        Flag 0
+        UV 0.66453659,0.21239210
+        }
+       VerD {
+        Posn -13.78082275,0.68446999,0.29123699
+        Flag 0
+        UV 0.49542576,0.26028046
+        }
+       VerD {
+        Posn 23.31720161,5.5,20.28190994
+        Flag 0
+        UV 0.06245305,0.44872546
+        }
+       VerD {
+        Posn 33.83670806,0,23.15282821
+        Flag 32
+        UV 0,0.50713664
+        }
+       VerD {
+        Posn 24.48156547,-5.50000190,26.40758132
+        Flag 0
+        UV 0.94213002,0.57647544
+        }
+       VerD {
+        Posn 8.31414985,0,21.94009780
+        Flag 32
+        UV 0.5,0.37995210
+        }
+       VerD {
+        Posn 15.41954040,0.77558898,45.46357727
+        Flag 32
+        UV 0.02273867,0.92549312
+        }
+       VerD {
+        Posn 19.97282409,-5.12277793,39.82764434
+        Flag 0
+        UV 0.92429506,0.81651979
+        }
+       VerD {
+        Posn 14.83327198,-2.35039401,42.89954376
+        Flag 0
+        UV 0.92759919,0.91791009
+        }
+       VerD {
+        Posn 12.25978183,-0.59866201,43.49705505
+        Flag 32
+        UV 0.95829057,0.96491307
+        }
+       VerD {
+        Posn 13.19616794,13.04876995,0.38231500
+        Flag 0
+        UV 0.21209093,0.17292359
+        }
+       VerD {
+        Posn 19.89189910,7.90533876,0.00187100
+        Flag 32
+        UV 0.10752770,0.16222906
+        }
+       VerD {
+        Posn 26.98889350,0.11289799,7.33882713
+        Flag 32
+        UV 0.00105937,0.26658314
+        }
+       VerD {
+        Posn 32.03411102,0.50272297,14.73169898
+        Flag 32
+        UV 0.00363520,0.39048081
+        }
+       VerD {
+        Posn 31.97832298,3.42469906,21.33058929
+        Flag 32
+        UV 0.02463276,0.48156124
+        }
+       VerD {
+        Posn 27.89969253,4.98799419,20.59161376
+        Flag 0
+        UV 0.04331773,0.46535843
+        }
+       VerD {
+        Posn 18.94341278,8.77001190,12.44209861
+        Flag 0
+        UV 0.12369102,0.28257051
+        }
+       VerD {
+        Posn 11.81326103,12.15142822,6.62729787
+        Flag 0
+        UV 0.22678264,0.20847192
+        }
+       VerD {
+        Posn 18.72481346,-9.04829311,-0.08533400
+        Flag 32
+        UV 0.87184852,0.16073556
+        }
+       VerD {
+        Posn 10.80918598,-13.95816230,0.27035400
+        Flag 0
+        UV 0.75889867,0.17793205
+        }
+       VerD {
+        Posn 10.38547325,-12.16264820,8.33546829
+        Flag 0
+        UV 0.75467717,0.22459585
+        }
+       VerD {
+        Posn 19.62608146,-8.93107795,15.99756240
+        Flag 0
+        UV 0.88072717,0.35113587
+        }
+       VerD {
+        Posn 28.72417259,-4.84983491,26.06105422
+        Flag 0
+        UV 0.95960527,0.55613654
+        }
+       VerD {
+        Posn 32.37436294,-3.24413299,25.04369354
+        Flag 32
+        UV 0.97705501,0.53405028
+        }
+       VerD {
+        Posn -6.49687719,-12.43589496,0.50948899
+        Flag 0
+        UV 0.60267668,0.23938125
+        }
+       VerD {
+        Posn -12.00871753,-7.00491285,0.36428099
+        Flag 0
+        UV 0.54898381,0.25609192
+        }
+       VerD {
+        Posn -5.52801418,0.43053901,6.65804481
+        Flag 0
+        UV 0.49559620,0.24597145
+        }
+       VerD {
+        Posn 2.19707489,0.23049199,13.59674644
+        Flag 0
+        UV 0.49531680,0.22760468
+        }
+       VerD {
+        Posn 11.02633857,-4.90981101,24.94833183
+        Flag 0
+        UV 0.78192836,0.63852649
+        }
+       VerD {
+        Posn 17.46932220,-6.02377080,26.21519851
+        Flag 0
+        UV 0.89169430,0.61437636
+        }
+       VerD {
+        Posn -10.65564346,8.54388046,0.42506301
+        Flag 0
+        UV 0.43765467,0.25132030
+        }
+       VerD {
+        Posn -3.90937304,13.40303993,0.61952602
+        Flag 0
+        UV 0.37810975,0.22952029
+        }
+       VerD {
+        Posn 16.97748565,5.74630308,19.69932556
+        Flag 0
+        UV 0.10996112,0.40033119
+        }
+       VerD {
+        Posn 11.04162502,4.54553079,19.75977325
+        Flag 32
+        UV 0.21507884,0.32474011
+        }
+       VerD {
+        Posn 30.86396026,-1.41314899,29.77480125
+        Flag 32
+        UV 0.98922222,0.60507798
+        }
+       VerD {
+        Posn 25.39221191,-3.25805091,34.78265380
+        Flag 32
+        UV 0.96674323,0.70975899
+        }
+       VerD {
+        Posn 21.35945701,-2.50208401,42.04991531
+        Flag 32
+        UV 0.96541237,0.82863181
+        }
+       VerD {
+        Posn 19.10071182,-0.47801700,44.28098297
+        Flag 32
+        UV 0.99162232,0.87358981
+        }
+       VerD {
+        Posn 19.13217735,2.42864704,37.28276443
+        Flag 32
+        UV 0.04149004,0.81820130
+        }
+       VerD {
+        Posn 22.75877380,3.56168198,28.96415710
+        Flag 0
+        UV 0.04341647,0.64244574
+        }
+       VerD {
+        Posn 22.99345016,-3.98555207,32.48753356
+        Flag 0
+        UV 0.95253545,0.70020866
+        }
+       VerD {
+        Posn 18.92987060,-3.00415706,37.67565155
+        Flag 0
+        UV 0.94819962,0.82242465
+        }
+       VerD {
+        Posn 16.33746528,-4.00232076,41.48484039
+        Flag 0
+        UV 0.91003280,0.87996619
+        }
+       VerD {
+        Posn 17.79623794,-5.54413414,39.87576293
+        Flag 0
+        UV 0.90134727,0.83919709
+        }
+       VerD {
+        Posn 10.70673179,-0.19688899,28.85113716
+        Flag 32
+        UV 0.95506864,0.96405541
+        }
+       VerD {
+        Posn 11.63648319,-0.39746698,36.14857482
+        Flag 32
+        UV 0.96144545,0.96121102
+        }
+       VerD {
+        Posn 12.74499416,-1.41408300,43.05689239
+        Flag 0
+        UV 0.92362606,0.95264780
+        }
+       VerD {
+        Posn 13.78981781,-1.90243601,43.02911376
+        Flag 0
+        UV 0.92548221,0.93516725
+        }
+       VerD {
+        Posn 13.90609073,0.87110298,45.23890686
+        Flag 0
+        UV 0.03516545,0.94463187
+        }
+       VerD {
+        Posn 12.72417068,0.43179699,44.49063110
+        Flag 32
+        UV 0.02527382,0.96046495
+        }
+       VerD {
+        Posn 19.20629119,10.78755569,6.66832399
+        Flag 0
+        UV 0.13779985,0.23113557
+        }
+       VerD {
+        Posn 24.89445495,6.89974880,6.87506723
+        Flag 32
+        UV 0.06915736,0.25639590
+        }
+       VerD {
+        Posn 24.75369834,7.83571815,12.70299720
+        Flag 0
+        UV 0.07782743,0.32928010
+        }
+       VerD {
+        Posn 29.84900283,5.22830915,13.33969593
+        Flag 0
+        UV 0.04104624,0.36469602
+        }
+       VerD {
+        Posn 24.34710311,-7.21007394,7.82655096
+        Flag 32
+        UV 0.92575985,0.26279363
+        }
+       VerD {
+        Posn 18.26470565,-11.26133155,8.15603446
+        Flag 0
+        UV 0.85050690,0.24427886
+        }
+       VerD {
+        Posn 30.02518463,-4.57405996,15.82072925
+        Flag 32
+        UV 0.96421146,0.39813825
+        }
+       VerD {
+        Posn 25.27527999,-7.78795289,16.02025222
+        Flag 0
+        UV 0.92484223,0.38290429
+        }
+       VerD {
+        Posn 2.74334406,-10.54407787,8.17887306
+        Flag 0
+        UV 0.65377926,0.23105248
+        }
+       VerD {
+        Posn -3.33638596,-6.43115186,7.57984495
+        Flag 0
+        UV 0.57138246,0.24778486
+        }
+       VerD {
+        Posn 12.04325771,-8.39937400,16.10033416
+        Flag 0
+        UV 0.78747856,0.29421943
+        }
+       VerD {
+        Posn 5.07718801,-5.66813182,15.59209918
+        Flag 0
+        UV 0.63573569,0.26090961
+        }
+       VerD {
+        Posn -2.54462409,7.36047792,6.22626304
+        Flag 0
+        UV 0.41570445,0.23126928
+        }
+       VerD {
+        Posn 3.91970300,11.14057922,6.41844081
+        Flag 0
+        UV 0.32982057,0.21169623
+        }
+       VerD {
+        Posn 5.25391006,5.83410215,12.01128387
+        Flag 0
+        UV 0.35914829,0.19666625
+        }
+       VerD {
+        Posn 11.82006072,8.35277557,12.00744819
+        Flag 0
+        UV 0.21636268,0.21575607
+        }
+       VerD {
+        Posn 26.88268089,3.02033996,28.92461013
+        Flag 32
+        UV 0.02822075,0.61231321
+        }
+       VerD {
+        Posn 30.07179069,1.64017295,28.96349334
+        Flag 32
+        UV 0.01299457,0.59727454
+        }
+       VerD {
+        Posn 23.08849143,1.39540803,36.72826004
+        Flag 32
+        UV 0.01694008,0.76138013
+        }
+       VerD {
+        Posn 25.89607429,-0.45701301,35.71514892
+        Flag 32
+        UV 0.99541747,0.71956515
+        }
+       VerD {
+        Posn 29.31799316,-3.72247505,31.05968093
+        Flag 32
+        UV 0.96966022,0.62916922
+        }
+       VerD {
+        Posn 26.42454338,-4.13520002,31.99230575
+        Flag 0
+        UV 0.96068125,0.66111111
+        }
+       VerD {
+        Posn 23.34120559,-4.50814819,35.24984741
+        Flag 0
+        UV 0.94803565,0.73302018
+        }
+       VerD {
+        Posn 21.20361709,-3.96233606,36.59655380
+        Flag 0
+        UV 0.94577229,0.77606570
+        }
+       VerD {
+        Posn 17.62105751,-4.44913101,32.25363922
+        Flag 0
+        UV 0.91564482,0.76439249
+        }
+       VerD {
+        Posn 12.74917030,-3.85345196,31.09032249
+        Flag 0
+        UV 0.84785819,0.83826678
+        }
+       VerD {
+        Posn 16.02899551,-2.83841395,37.51137542
+        Flag 0
+        UV 0.92968475,0.86652535
+        }
+       VerD {
+        Posn 13.00901603,-2.24411106,36.81281280
+        Flag 0
+        UV 0.89730018,0.91817307
+        }
+       VerD {
+        Posn 12.87845516,3.26315903,27.70923995
+        Flag 32
+        UV 0.13572600,0.77553141
+        }
+       VerD {
+        Posn 17.63933944,3.94305992,28.25879859
+        Flag 0
+        UV 0.07607297,0.68523436
+        }
+       VerD {
+        Posn 13.01567840,1.64340198,36.34713363
+        Flag 32
+        UV 0.08003600,0.92250466
+        }
+       VerD {
+        Posn 16.03939247,2.46415901,36.93746566
+        Flag 0
+        UV 0.06191461,0.86441272
+        }
+       }
+      Edgs {
+       EdgA 0,12
+       EdgA 12,52
+       EdgA 52,19
+       EdgA 19,0
+       EdgA 12,13
+       EdgA 13,53
+       EdgA 53,52
+       EdgA 13,1
+       EdgA 1,14
+       EdgA 14,53
+       EdgA 52,54
+       EdgA 54,18
+       EdgA 18,19
+       EdgA 53,55
+       EdgA 55,54
+       EdgA 14,15
+       EdgA 15,55
+       EdgA 54,17
+       EdgA 17,4
+       EdgA 4,18
+       EdgA 55,16
+       EdgA 16,17
+       EdgA 15,5
+       EdgA 5,16
+       EdgA 1,20
+       EdgA 20,56
+       EdgA 56,14
+       EdgA 20,21
+       EdgA 21,57
+       EdgA 57,56
+       EdgA 21,2
+       EdgA 2,22
+       EdgA 22,57
+       EdgA 56,58
+       EdgA 58,15
+       EdgA 57,59
+       EdgA 59,58
+       EdgA 22,23
+       EdgA 23,59
+       EdgA 58,25
+       EdgA 25,5
+       EdgA 59,24
+       EdgA 24,25
+       EdgA 23,6
+       EdgA 6,24
+       EdgA 2,26
+       EdgA 26,60
+       EdgA 60,22
+       EdgA 26,27
+       EdgA 27,61
+       EdgA 61,60
+       EdgA 27,3
+       EdgA 3,28
+       EdgA 28,61
+       EdgA 60,62
+       EdgA 62,23
+       EdgA 61,63
+       EdgA 63,62
+       EdgA 28,29
+       EdgA 29,63
+       EdgA 62,31
+       EdgA 31,6
+       EdgA 63,30
+       EdgA 30,31
+       EdgA 29,7
+       EdgA 7,30
+       EdgA 3,32
+       EdgA 32,64
+       EdgA 64,28
+       EdgA 32,33
+       EdgA 33,65
+       EdgA 65,64
+       EdgA 33,0
+       EdgA 19,65
+       EdgA 64,66
+       EdgA 66,29
+       EdgA 65,67
+       EdgA 67,66
+       EdgA 18,67
+       EdgA 66,35
+       EdgA 35,7
+       EdgA 67,34
+       EdgA 34,35
+       EdgA 4,34
+       EdgA 17,68
+       EdgA 68,41
+       EdgA 41,4
+       EdgA 16,69
+       EdgA 69,68
+       EdgA 5,36
+       EdgA 36,69
+       EdgA 68,70
+       EdgA 70,40
+       EdgA 40,41
+       EdgA 69,71
+       EdgA 71,70
+       EdgA 36,37
+       EdgA 37,71
+       EdgA 70,39
+       EdgA 39,8
+       EdgA 8,40
+       EdgA 71,38
+       EdgA 38,39
+       EdgA 37,9
+       EdgA 9,38
+       EdgA 25,72
+       EdgA 72,36
+       EdgA 24,73
+       EdgA 73,72
+       EdgA 6,42
+       EdgA 42,73
+       EdgA 72,74
+       EdgA 74,37
+       EdgA 73,75
+       EdgA 75,74
+       EdgA 42,43
+       EdgA 43,75
+       EdgA 74,45
+       EdgA 45,9
+       EdgA 75,44
+       EdgA 44,45
+       EdgA 43,10
+       EdgA 10,44
+       EdgA 31,76
+       EdgA 76,42
+       EdgA 30,77
+       EdgA 77,76
+       EdgA 7,46
+       EdgA 46,77
+       EdgA 76,78
+       EdgA 78,43
+       EdgA 77,79
+       EdgA 79,78
+       EdgA 46,47
+       EdgA 47,79
+       EdgA 78,49
+       EdgA 49,10
+       EdgA 79,48
+       EdgA 48,49
+       EdgA 47,11
+       EdgA 11,48
+       EdgA 35,80
+       EdgA 80,46
+       EdgA 34,81
+       EdgA 81,80
+       EdgA 41,81
+       EdgA 80,82
+       EdgA 82,47
+       EdgA 81,83
+       EdgA 83,82
+       EdgA 40,83
+       EdgA 82,51
+       EdgA 51,11
+       EdgA 83,50
+       EdgA 50,51
+       EdgA 8,50
+       }
+      Pgns {
+       PgSz 4
+       Pgon 0,12,52,19
+       PgSz 4
+       Pgon 12,13,53,52
+       PgSz 4
+       Pgon 13,1,14,53
+       PgSz 4
+       Pgon 19,52,54,18
+       PgSz 4
+       Pgon 52,53,55,54
+       PgSz 4
+       Pgon 53,14,15,55
+       PgSz 4
+       Pgon 18,54,17,4
+       PgSz 4
+       Pgon 54,55,16,17
+       PgSz 4
+       Pgon 55,15,5,16
+       PgSz 4
+       Pgon 1,20,56,14
+       PgSz 4
+       Pgon 20,21,57,56
+       PgSz 4
+       Pgon 21,2,22,57
+       PgSz 4
+       Pgon 14,56,58,15
+       PgSz 4
+       Pgon 56,57,59,58
+       PgSz 4
+       Pgon 57,22,23,59
+       PgSz 4
+       Pgon 15,58,25,5
+       PgSz 4
+       Pgon 58,59,24,25
+       PgSz 4
+       Pgon 59,23,6,24
+       PgSz 4
+       Pgon 2,26,60,22
+       PgSz 4
+       Pgon 26,27,61,60
+       PgSz 4
+       Pgon 27,3,28,61
+       PgSz 4
+       Pgon 22,60,62,23
+       PgSz 4
+       Pgon 60,61,63,62
+       PgSz 4
+       Pgon 61,28,29,63
+       PgSz 4
+       Pgon 23,62,31,6
+       PgSz 4
+       Pgon 62,63,30,31
+       PgSz 4
+       Pgon 63,29,7,30
+       PgSz 4
+       Pgon 3,32,64,28
+       PgSz 4
+       Pgon 32,33,65,64
+       PgSz 4
+       Pgon 33,0,19,65
+       PgSz 4
+       Pgon 28,64,66,29
+       PgSz 4
+       Pgon 64,65,67,66
+       PgSz 4
+       Pgon 65,19,18,67
+       PgSz 4
+       Pgon 29,66,35,7
+       PgSz 4
+       Pgon 66,67,34,35
+       PgSz 4
+       Pgon 67,18,4,34
+       PgSz 4
+       Pgon 4,17,68,41
+       PgSz 4
+       Pgon 17,16,69,68
+       PgSz 4
+       Pgon 16,5,36,69
+       PgSz 4
+       Pgon 41,68,70,40
+       PgSz 4
+       Pgon 68,69,71,70
+       PgSz 4
+       Pgon 69,36,37,71
+       PgSz 4
+       Pgon 40,70,39,8
+       PgSz 4
+       Pgon 70,71,38,39
+       PgSz 4
+       Pgon 71,37,9,38
+       PgSz 4
+       Pgon 5,25,72,36
+       PgSz 4
+       Pgon 25,24,73,72
+       PgSz 4
+       Pgon 24,6,42,73
+       PgSz 4
+       Pgon 36,72,74,37
+       PgSz 4
+       Pgon 72,73,75,74
+       PgSz 4
+       Pgon 73,42,43,75
+       PgSz 4
+       Pgon 37,74,45,9
+       PgSz 4
+       Pgon 74,75,44,45
+       PgSz 4
+       Pgon 75,43,10,44
+       PgSz 4
+       Pgon 6,31,76,42
+       PgSz 4
+       Pgon 31,30,77,76
+       PgSz 4
+       Pgon 30,7,46,77
+       PgSz 4
+       Pgon 42,76,78,43
+       PgSz 4
+       Pgon 76,77,79,78
+       PgSz 4
+       Pgon 77,46,47,79
+       PgSz 4
+       Pgon 43,78,49,10
+       PgSz 4
+       Pgon 78,79,48,49
+       PgSz 4
+       Pgon 79,47,11,48
+       PgSz 4
+       Pgon 7,35,80,46
+       PgSz 4
+       Pgon 35,34,81,80
+       PgSz 4
+       Pgon 34,4,41,81
+       PgSz 4
+       Pgon 46,80,82,47
+       PgSz 4
+       Pgon 80,81,83,82
+       PgSz 4
+       Pgon 81,41,40,83
+       PgSz 4
+       Pgon 47,82,51,11
+       PgSz 4
+       Pgon 82,83,50,51
+       PgSz 4
+       Pgon 83,40,8,50
+       }
+      AVer {
+       }
+      }
+     }
+    }
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   Cast 1
+   tran {
+    po 0,0,0
+    }
+   MPSt 0
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 41.03899,40.64278,7.67867
+      mat -0.70551,-0.2701,0.65514,0.70859,-0.28061,0.64734,0.00902,0.92101,0.38942
+      }
+     MPSt 0
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       isEx 1
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    ca {
+     nm "Caméra 2"
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 13.95601,-4.15291,-10.36591
+      mat 0.00017,-0.00014,0.99997,0.99997,0,-0.00014,0.00002,0.99997,0.00017
+      Scal 0.99997
+      }
+     MPSt 0
+     proj {
+      iso {
+       zoom 6.21828
+       isEx 1
+       }
+      }
+     cc 1
+     size 82.20473,54.80315
+     ofst 25.03937,65.19685
+     }
+    li {
+     lite {
+      dist {
+       colo 0.5,0.5,0.5
+       brit 2
+       shad 0.50847
+       dire 0.57735,-0.57735,0.57735
+       shdw 1
+       isEx 1
+       }
+      }
+     nm "Lumière 2"
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 20.37439,-6.03299,2.56905
+      mat 0.09734,-0.39359,0.91411,0.99524,0.0385,-0.08939,0,0.91846,0.39545
+      }
+     MPSt 0
+     only 0
+     shdF {
+      RayT {
+       isEx 1
+       }
+      }
+     }
+    gr {
+     nm "Universe"
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 18.57736,3.72693,-52.43799
+      mat 0,1,0,-1,0,0,0,0,1
+      Scal 0.08714
+      hp -39.03587,194.57915,-549.23499
+      }
+     MPSt 0
+     so {
+      inpr {
+       AnTr 1
+       Cloa 1
+       Cast 1
+       tran {
+        po 0,0,0
+        }
+       MPSt 0
+       sh {
+        mapk 0
+        elms {
+         sprm {
+          uvsp 0
+          aexp 1
+          bbox 0,0,2,2
+          mbox 0,0,2,2
+          shdr {
+           scmp {
+            isEx 1
+            prkd 1
+            ssub {
+             sclr {
+              isEx 1
+              prkd 1
+              colr 0,0.99608,0
+              }
+             sval {
+              isEx 1
+              prkd 1
+              Val 1
+              }
+             sval {
+              isEx 1
+              prkd 1
+              Val 0.5
+              }
+             sval {
+              isEx 1
+              prkd 1
+              Val 0
+              }
+             sval {
+              isEx 1
+              prkd 1
+              Val 0.50536
+              }
+             sval {
+              isEx 1
+              prkd 1
+              Val 0
+              }
+             sval {
+              isEx 1
+              prkd 1
+              Val 0
+              }
+             sclr {
+              isEx 1
+              prkd 1
+              colr 0,0,0
+              }
+             }
+            ampl 1
+            }
+           }
+          opac 1
+          isEx 0
+          }
+         }
+        }
+       ob "Form0"
+       fleF {
+        RayT {
+         maxF 2
+         isEx 1
+         }
+        }
+       fraF {
+        RayT {
+         maxF 2
+         isEx 1
+         }
+        }
+       }
+      }
+     boxM 33.83672,14.94882,45.46358
+     boxm -13.78082,-14.94882,-0.22571
+     open 1
+     }
+    }
+   boxM 43.51027,43.1282,9.46762
+   boxm -13.50723,-15.15649,-19.6299
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   IMAP {
+    }
+   }
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

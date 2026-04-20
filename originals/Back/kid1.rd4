@@ -1,0 +1,768 @@
+3DC {
+ asci 1
+ vs "1.0"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 640
+  heig 480
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 0
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra Jeu"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    OVER 1
+    MAXR 2
+    MAXT 6
+    MAXA 2
+    FLAT 1
+    LITE 1
+    DRLC 0
+    QD3D 0
+    GBCK 1
+    }
+   }
+  oopt 1
+  Ofil "C:\\PROGRAM FILES\\RAYDREAM40\\Blupi3d.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra Jeu"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 4
+     locV 722
+     sizH 993
+     sizV 359
+     flot 0
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 6
+     locV 23
+     sizH 1065
+     sizV 670
+     flot 0
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra 1"
+ ShLv 3
+ Zoom 6
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 908,700,1561,1748
+ }
+      }
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,399,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ drop {
+  colo {
+   colo 0.5,0.5,0.5
+   }
+  }
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 0
+   }
+  }
+ }
+sc {
+ nm "kid1"
+ nxtL 1
+ nxtC 2
+ nxtG 3
+ nxtO 0
+ ob {
+  cube {
+   prim {
+    cube {
+     }
+    }
+   nm "Cube"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  COfl {
+   prim {
+    sp {
+     }
+    }
+   nm "Flat Surface"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 64.25388,67.22954,33.83507
+      mat -0.72357,-0.28806,0.62714,0.68961,-0.26669,0.67319,-0.02661,0.91971,0.39175
+      }
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 29.60869
+       fall 0.49625
+       brit 0.49973
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -1.85245,-0.49997,-6.23524
+      mat 0.00012,-0.00009,0.99997,0.99997,0,-0.00009,0.00003,0.99997,0.00012
+      }
+     only 0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 29.60869
+       fall 0.49625
+       brit 0.49973
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -3.92627,-3.15865,-1.66779
+      mat 0.00012,-0.00009,0.99997,0.99997,0,-0.00009,0.00003,0.99997,0.00012
+      }
+     only 0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 29.60869
+       fall 0.49625
+       brit 0.49973
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -6.26117,-7.9124,-0.75751
+      mat 0.00012,-0.00009,0.99997,0.99997,0,-0.00009,0.00003,0.99997,0.00012
+      }
+     only 0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 29.60869
+       fall 0.49625
+       brit 0.49973
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -2.97127,-5.7822,-8.8019
+      mat 0.00012,-0.00009,0.99997,0.99997,0,-0.00009,0.00003,0.99997,0.00012
+      }
+     only 0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 29.60869
+       fall 0.49625
+       brit 0.49973
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -4.46924,3.4377,-10.66005
+      mat 0.00012,-0.00009,0.99997,0.99997,0,-0.00009,0.00003,0.99997,0.00012
+      }
+     only 0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 29.60869
+       fall 0.49625
+       brit 0.49973
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -5.3306,6.31786,-6.56754
+      mat 0.00012,-0.00009,0.99997,0.99997,0,-0.00009,0.00003,0.99997,0.00012
+      }
+     only 0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 29.60869
+       fall 0.49625
+       brit 0.49973
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -5.33057,-7.4498,-4.65207
+      mat 0.00012,-0.00009,0.99997,0.99997,0,-0.00009,0.00003,0.99997,0.00012
+      }
+     only 0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 29.60869
+       fall 0.49625
+       brit 0.49973
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -5.81183,-1.97507,-11.4881
+      mat 0.00012,-0.00009,0.99997,0.99997,0,-0.00009,0.00003,0.99997,0.00012
+      }
+     only 0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 29.60869
+       fall 0.49625
+       brit 0.49973
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -2.97127,4.87073,-2.33092
+      mat 0.00012,-0.00009,0.99997,0.99997,0,-0.00009,0.00003,0.99997,0.00012
+      }
+     only 0
+     }
+    inpr {
+     nm "Flat Surface"
+     AnTr 1
+     Cloa 0
+     tran {
+      po -5,-5,-15.00005
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.99997,0.99997
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Flat Surface"
+     }
+    ca {
+     nm "Caméra Jeu"
+     AnTr 1
+     Cloa 0
+     tran {
+      po 19.68372,-0.31615,-0.70551
+      mat 0.00034,-0.00034,0.99997,0.99997,0,-0.00034,0.00003,0.99997,0.00034
+      }
+     proj {
+      iso {
+       zoom 2.50931
+       }
+      }
+     cc 0
+     size 50.88553,33.92238
+     ofst -1.07076,-13.85207
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -9.99904,-0.74997,-6.25008
+      Scal 1.19986
+      }
+     defo {
+      affi {
+       ScaX 0.16669
+       ScaY 3.08333
+       ScaZ 2.41684
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,4,3
+        mbox 0,0,4,3
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 1
+             seam 0
+             cnth 30
+             cntv 30
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             }
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "11:03:099407471"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cube"
+     }
+    }
+   boxM 66.76045,69.68224,35.65956
+   boxm -10.49905,-9.99889,-18.00005
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    ROBJ {
+     IDEN {
+      REFN 0
+      TIME "11:03:099407471"
+      }
+     DATA {
+      stor 0
+      w 100
+      h 100
+      dpth 32
+      tils 64,64
+      TDTA {
+       TILE $FFFFFFFFE9FFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800E8FF0000F5FFE800E8FFFF00F6FFE800E8FFFE00F7FFE800E8FFFD00F8FFE800E8FFFC00F9FFE800E8FFFB00FAFFE800E8FFFA00FBFFE800E8FFF900FCFFE800E8FFF800FDFFE800E8FFF700FEFFE800E8FFF600FFFFE800E8FFF50000FFE800E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFE80000FFF500E8FFE800FFFFF600E8FFE800FEFFF700E8FFE800FDFFF800E8FFE800FCFFF900E8FFE800FBFFFA00E8FFE800FAFFFB00E8FFE800F9FFFC00E8FFE800F8FFFD00E8FFE800F7FFFE00E8FFE800F6FFFF00E8FFE800F5FF0000E8FFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800E8FF0000F5FFE800E8FFFF00F6FFE800E8FFFE00E9FFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800E8FF0000F5FFE800E8FFFF00F6FFE800E8FFFE00F7FFE800E8FFFD00F8FFE800E8FFFC00F9FFE800E8FFFB00FAFFE800E8FFFA00FBFFE800E8FFF900FCFFE800E8FFF800FDFFE800E8FFF700FEFFE800E8FFF600FFFFE800E8FFF50000FFE800E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFE80000FFF500E8FFE800FFFFF600E8FFE800FEFFF700E8FFE800FDFFF800E8FFE800FCFFF900E8FFE800FBFFFA00E8FFE800FAFFFB00E8FFE800F9FFFC00E8FFE800F8FFFD00E8FFE800F7FFFE00E8FFE800F6FFFF00E8FFE800F5FF0000E8FFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800DBFFE800E8FF0000F5FFE800E8FFFF00F6FFE800E8FFFE0081008100810081008100810081008100810081008100810081008100810081008100810081008100810081008100810081008100810081008100810081008100$
+       TILE $FFFFFFFFF7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F6FFE900F5FFEA00F4FFEB00F3FFEC00F2FFED00F1FFEE00F0FFEF00EFFFF000EEFFF100EDFFF200ECFFF300EBFFF400EAFFF500E9FFF600E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF600E9FFF500EAFFF400EBFFF300ECFFF200EDFFF100EEFFF000EFFFEF00F0FFEE00F1FFED00F2FFEC00F3FFEB00F4FFEA00F5FFE900F6FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F6FFE900F5FFEA00F4FFEB00F3FFF7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F6FFE900F5FFEA00F4FFEB00F3FFEC00F2FFED00F1FFEE00F0FFEF00EFFFF000EEFFF100EDFFF200ECFFF300EBFFF400EAFFF500E9FFF600E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF600E9FFF500EAFFF400EBFFF300ECFFF200EDFFF100EEFFF000EFFFEF00F0FFEE00F1FFED00F2FFEC00F3FFEB00F4FFEA00F5FFE900F6FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F7FFE800F6FFE900F5FFEA00F4FFEB00F3FF810081008100810081008100810081008100810081008100810081008100810081008100$
+       TILE $FFFFFFFFF7FFE800E8FFFD00F8FFE800E8FFFC00F9FFE800E8FFFB00FAFFE800E8FFFA00FBFFE800E8FFF900FCFFE800E8FFF800FDFFE800E8FFF700FEFFE800E8FFF600FFFFE800E8FFF50000FFE800E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFE80000FFF500E8FFE800FFFFF600E8FFE800FEFFF700E8FFE800FDFFF800E8FFE800FCFFF900E8FFE800FBFFFA00E8FFE800FAFFFB00E8FFE800F9FFFC00E8FFE800F8FFFD00E8FFE800F7FFFE00E8FFE800F6FFFF00E8FFE800F5FF0000E8FFE800DBFFE800F3FFF7FFE800E8FFFD00F8FFE800E8FFFC00F9FFE800E8FFFB00FAFFE800E8FFFA00FBFFE800E8FFF900FCFFE800E8FFF800FDFFE800E8FFF700FEFFE800E8FFF600FFFFE800E8FFF50000FFE800E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFDB00E8FFE80000FFF500E8FFE800FFFFF600E8FFE800FEFFF700E8FFE800FDFFF800E8FFE800FCFFF900E8FFE800FBFFFA00E8FFE800FAFFFB00E8FFE800F9FFFC00E8FFE800F8FFFD00E8FFE800F7FFFE00E8FFE800F6FFFF00E8FFE800F5FF0000E8FFE800DBFFE800F3FF810081008100810081008100810081008100810081008100810081008100810081008100$
+       TILE $FFFFFFFFEC00F2FFED00F1FFEE00F0FFEF00EFFFF000EEFFF100EDFFF200ECFFF300EBFFF400EAFFF500E9FFF600E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF600E9FFF500EAFFF400EBFFF300ECFFF200EDFFF100EEFFF000EFFFEF00F0FFEE00F1FFED00F2FFEC00F3FFEB00F4FFEA00F5FFE900F6FFE800EC00F2FFED00F1FFEE00F0FFEF00EFFFF000EEFFF100EDFFF200ECFFF300EBFFF400EAFFF500E9FFF600E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF700E8FFF600E9FFF500EAFFF400EBFFF300ECFFF200EDFFF100EEFFF000EFFFEF00F0FFEE00F1FFED00F2FFEC00F3FFEB00F4FFEA00F5FFE900F6FFE8008100810081008100810081008100810081008100F100$
+       }
+      DefM {
+       tile 1
+       seam 0
+       cnth 30
+       cntv 30
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       }
+      }
+     }
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

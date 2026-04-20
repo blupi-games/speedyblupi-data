@@ -1,0 +1,1831 @@
+3DC {
+ asci 1
+ vs "5.0"
+ sf "Ray Dream Studio(TM) 5"
+ vers "5.0.2"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Autre"
+  comt ""
+  widt 256
+  heig 256
+  dpi 72
+  pxlr 1
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "CamÈra 2"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   abuf {
+    SHAD 0
+    OVER 1
+    DBG1 0
+    DBG2 0
+    DBG3 0
+    DBG4 0
+    ERR1 0
+    MAXT 1
+    DBGV 32768
+    FLAT 1
+    LTWD 0
+    OVRQ 0
+    OPTI 0
+    ZOOM 1
+    Shdw 1
+    Flec 1
+    Tran 1
+    LTTO 0
+    BUMP 1
+    FRAC 1
+    MaxD 25
+    isEx 1
+    }
+   }
+  oopt 1
+  Ofil ""
+  movi 0
+  tchf 0
+  ESMP 1
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   FMod 0
+   MOVW 1096173824
+   WOPT {
+    SIZE 44
+    DATA 000000000000000000000000000000000000000000000000E4AA750000000000E4AA75000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "CamÈra 1"
+  CamN "CamÈra 2"
+  }
+ kind scn
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 5
+     locV 864
+     sizH 593
+     sizV 217
+     flot 0
+     shwn 1
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 4
+     locV 23
+     sizH 1002
+     sizV 812
+     flot 0
+     shwn 1
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "CamÈra 2"
+ ShLv 3
+ Zoom 7
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 461,432,1256,1418
+ }
+      }
+     }
+    winf {
+     type 1399018356
+     locH 182
+     locV 254
+     sizH 416
+     sizV 288
+     flot 0
+     shwn 0
+     stat 1
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ lock 0
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Rendu"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ name "ContrÙle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,504,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Internet"
+ dwin {
+  shwn 0
+  dsts 2
+  lsts 2
+  ubnd 25,25,54,171
+  dbnd 0,0,0,0
+  nbnd 25,25,54,171
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ back {
+  colo {
+   colo 0.99609,0,0
+   isEx 1
+   }
+  }
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 0.59998
+   isEx 0
+   }
+  }
+ data {
+  phpr {
+   sima 1835361385
+   enab 1
+   surf 1819244385
+   isEx 1
+   }
+  }
+ }
+sc {
+ nm "metal2"
+ hjmp 0
+ nxtL 1
+ nxtC 2
+ nxtG 0
+ nxtO 0
+ ob {
+  cyli {
+   prim {
+    cyli {
+     isEx 1
+     }
+    }
+   nm "Cylindre"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        isEx 1
+        prkd 1
+        ssub {
+         sclr {
+          isEx 1
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sclr {
+          isEx 1
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        ampl 1
+        }
+       }
+      opac 1
+      isEx 0
+      }
+     }
+    }
+   hjmp 0
+   fidl 1
+   }
+  sp {
+   prim {
+    sp {
+     isEx 1
+     }
+    }
+   nm "SphËre"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        isEx 1
+        prkd 1
+        ssub {
+         sclr {
+          isEx 1
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sval {
+          isEx 1
+          prkd 1
+          Val 0
+          }
+         sclr {
+          isEx 1
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        ampl 1
+        }
+       }
+      opac 1
+      isEx 0
+      }
+     }
+    }
+   hjmp 0
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   Cast 1
+   tran {
+    po 0,0,0
+    }
+   MPSt 0
+   so {
+    ca {
+     nm "CamÈra 1"
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 30,30,30
+      mat -0.70709,-0.40823,0.57735,0.70709,-0.40823,0.57735,0,0.81648,0.57735
+      }
+     MPSt 0
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       isEx 1
+       }
+      }
+     cc 0
+     size 102.04723,68.03148
+     ofst 0,0
+     }
+    li {
+     lite {
+      dist {
+       colo 0.5,0.5,0.5
+       brit 1
+       shad 1
+       dire 0.57735,-0.57735,0.57735
+       shdw 1
+       isEx 1
+       }
+      }
+     nm "LumiËre 1"
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 13.77953,-13.77953,13.77953
+      mat 0.70708,-0.40822,0.57735,0.70708,0.40822,-0.57735,0,0.81647,0.57735
+      }
+     MPSt 0
+     only 0
+     shdF {
+      RayT {
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 5.00084,-5.66446,-7.99968
+      mat 1,0,0,0,0.70708,0.70708,0,-0.70708,0.70708
+      }
+     xyzS 0.32808,0.32808,1.5748
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          isEx 1
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 1
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            isEx 1
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "07:49:43 PM9017357"
+              }
+             }
+            whit 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sclr {
+            isEx 1
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          ampl 0
+          }
+         }
+        opac 1
+        isEx 0
+        }
+       }
+      }
+     ob "Cylindre"
+     ur ""
+     uK 0
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 5.00084,4.01401,1.73784
+      mat 1,0,0,0,0.70708,0.70708,0,-0.70708,0.70708
+      Scal 0.99997
+      }
+     xyzS 0.32808,0.32808,1.5748
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          isEx 1
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 1
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            isEx 1
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "07:49:43 PM9017357"
+              }
+             }
+            whit 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sclr {
+            isEx 1
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          ampl 0
+          }
+         }
+        opac 1
+        isEx 0
+        }
+       }
+      }
+     ob "Cylindre"
+     ur ""
+     uK 0
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 5.00084,-2.86961,-1.08684
+      mat 1,0,0,0,0.70709,0.70709,0,-0.70709,0.70709
+      Scal 0.99997
+      }
+     xyzS 0.32808,0.32808,1.18112
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          isEx 1
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 1
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            isEx 1
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "07:49:43 PM9017357"
+              }
+             }
+            whit 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sclr {
+            isEx 1
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          ampl 0
+          }
+         }
+        opac 1
+        isEx 0
+        }
+       }
+      }
+     ob "Cylindre"
+     ur ""
+     uK 0
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 5.00084,-6.37607,2.84784
+      mat 1,0,0,0,0.70708,0.70708,0,-0.70708,0.70708
+      Scal 0.99994
+      }
+     xyzS 0.32808,0.32808,1.5748
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          isEx 1
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 1
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            isEx 1
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "07:49:43 PM9017357"
+              }
+             }
+            whit 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sclr {
+            isEx 1
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          ampl 0
+          }
+         }
+        opac 1
+        isEx 0
+        }
+       }
+      }
+     ob "Cylindre"
+     ur ""
+     uK 0
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 5.00084,1.21967,-0.99672
+      mat 1,0,0,0,0.70709,-0.70709,0,0.70709,0.70709
+      Scal 0.99997
+      }
+     xyzS 0.32808,0.32808,1.18112
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          isEx 1
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 1
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            isEx 1
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "07:49:43 PM9017357"
+              }
+             }
+            whit 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sclr {
+            isEx 1
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          ampl 0
+          }
+         }
+        opac 1
+        isEx 0
+        }
+       }
+      }
+     ob "Cylindre"
+     ur ""
+     uK 0
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 5.00084,4.08972,-7.9039
+      mat 1,0,0,0,0.70708,-0.70708,0,0.70708,0.70708
+      Scal 0.99991
+      }
+     xyzS 0.32808,0.32808,1.5748
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          isEx 1
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 1
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            isEx 1
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "07:49:43 PM9017357"
+              }
+             }
+            whit 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sclr {
+            isEx 1
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          ampl 0
+          }
+         }
+        opac 1
+        isEx 0
+        }
+       }
+      }
+     ob "Cylindre"
+     ur ""
+     uK 0
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 5.00084,-2.87505,-5.20665
+      mat 1,0,0,0,0.70709,-0.70709,0,0.70709,0.70709
+      Scal 0.99997
+      }
+     xyzS 0.32808,0.32808,1.18112
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          isEx 1
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 1
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            isEx 1
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "07:49:43 PM9017357"
+              }
+             }
+            whit 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sclr {
+            isEx 1
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          ampl 0
+          }
+         }
+        opac 1
+        isEx 0
+        }
+       }
+      }
+     ob "Cylindre"
+     ur ""
+     uK 0
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 5.00084,1.26767,-5.2281
+      mat 1,0,0,0,0.70709,0.70709,0,-0.70709,0.70709
+      Scal 0.99997
+      }
+     xyzS 0.32808,0.32808,1.18112
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          isEx 1
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 1
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            isEx 1
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "07:49:43 PM9017357"
+              }
+             }
+            whit 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sclr {
+            isEx 1
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          ampl 0
+          }
+         }
+        opac 1
+        isEx 0
+        }
+       }
+      }
+     ob "Cylindre"
+     ur ""
+     uK 0
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 4.99895,-4.94293,-3.13548
+      mat 1,0,0,0,0.70708,-0.70708,0,0.70708,0.70708
+      Scal 0.99997
+      }
+     xyzS 0.32808,0.32808,0.32808
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          isEx 1
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 1
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            isEx 1
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "07:49:43 PM9017357"
+              }
+             }
+            whit 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sclr {
+            isEx 1
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          ampl 0
+          }
+         }
+        opac 1
+        isEx 0
+        }
+       }
+      }
+     ob "SphËre"
+     ur ""
+     uK 0
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 4.99895,-0.77922,1.02818
+      mat 1,0,0,0,0.70708,-0.70708,0,0.70708,0.70708
+      Scal 0.99997
+      }
+     xyzS 0.32808,0.32808,0.32808
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          isEx 1
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 1
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            isEx 1
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "07:49:43 PM9017357"
+              }
+             }
+            whit 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sclr {
+            isEx 1
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          ampl 0
+          }
+         }
+        opac 1
+        isEx 0
+        }
+       }
+      }
+     ob "SphËre"
+     ur ""
+     uK 0
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 4.99895,-0.79379,-7.28462
+      mat 1,0,0,0,0.70708,-0.70708,0,0.70708,0.70708
+      Scal 0.99997
+      }
+     xyzS 0.32808,0.32808,0.32808
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          isEx 1
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 1
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            isEx 1
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "07:49:43 PM9017357"
+              }
+             }
+            whit 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sclr {
+            isEx 1
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          ampl 0
+          }
+         }
+        opac 1
+        isEx 0
+        }
+       }
+      }
+     ob "SphËre"
+     ur ""
+     uK 0
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 4.99895,3.37456,-3.11621
+      mat 1,0,0,0,0.70708,-0.70708,0,0.70708,0.70708
+      Scal 0.99994
+      }
+     xyzS 0.32808,0.32808,0.32808
+     MPSt 0
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          isEx 1
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 1
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             brit 1
+             }
+            isEx 1
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "07:49:43 PM9017357"
+              }
+             }
+            whit 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0.103
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sval {
+            isEx 1
+            prkd 1
+            Val 0
+            }
+           sclr {
+            isEx 1
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          ampl 0
+          }
+         }
+        opac 1
+        isEx 0
+        }
+       }
+      }
+     ob "SphËre"
+     ur ""
+     uK 0
+     fleF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     fraF {
+      RayT {
+       maxF 2
+       isEx 1
+       }
+      }
+     }
+    ca {
+     nm "CamÈra 2"
+     AnTr 1
+     Cloa 1
+     Cast 1
+     tran {
+      po 19.48146,-0.67581,-2.70015
+      mat 0,0,1,1,0,0,0,1,0
+      Scal 0.99998
+      }
+     MPSt 0
+     proj {
+      iso {
+       zoom 3.30409
+       isEx 1
+       }
+      }
+     cc 1
+     size 37.79527,38.3914
+     ofst -0.35432,-0.88582
+     }
+    }
+   boxM 32.60393,32.60393,31.80209
+   boxm 2.00584,-16.04951,-12.17688
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   IMAP {
+    ROBJ {
+     IDEN {
+      REFN 0
+      TIME "07:49:43 PM9017357"
+      }
+     DATA {
+      stor 0
+      w 41
+      h 35
+      dpth 32
+      npln 1
+      tils 64,64
+      tdta {
+       tile $00000FA0ˇi/xqàßßqàêêöß∞’–ºöêèô†íäºÆÆﬂﬂ…ÿº≥ñ†àkêßãÖIIaQiàixà˛êF¢≥ß†àéé†ßÆµß†Æµ¬ßíßß†äèé]áõÖ~iYYIQqxÄààêòòµµòµëÇíßµµ¬¬ºµôzÇô†ôííëèßí_gq˝a x˛Äàêò†˛ß%µäÇí†Æµ–‚ÿ¬ôääí††ôßßÆ≤uE@òiiêàêàÄàêêò†˛ßµ†íôßÆµ¬–…µ†ôí†ßÆµÆÆßõÖOWxaax˝ò¸ê†ß˛º˛µ Æ˝ß †˝ß$Æº¬ºßßôâ_çaxiqàò†ß†êàxÄêôôÆ–ÿ–¬ºÆ†ôô†˝ß,µ¬…ºµÆßí|~xqqÄÄàòÆòàxiyíÇôº‚Áÿ…¬¬ÆÆß†ôäíßÆ¬––˛µ<ß†ßÄàêàÄxêÆòÄaarÇÇô–ÿÿﬂÿ¬ºÆíäÇzíÆº…µÆµºµµºàò†òxià††qbbjÇÇô–˝Á(Ï……¬ßôííäôßµ¬µµºº¬¬…ÆµÆÆàqxêêrzrÇíôß¬ﬂ‚ÁÏ˛ﬂ¬ÆßÆµÆßÆº¬…¬…˛¬ˇ–5…¬¬µêàòÅrrzäÆºº…‚ÏÏÁ‚ÁÁ…µµ¬¬ºµµ¬–…ﬂﬂÿ–…ÿ”ºº……µêârÇÇrÇß˛…ﬂﬂﬂ‚ÏÁ–º˛µFÆ…–ÿ‚ÁÏıÁ‚ÿ◊©òº…µ†íôß†ä†Æ…¬µ–……ÿ‚ıˇ‚…ºÆ†ºÿÁÁÏ˙ˇˇıÏﬂˇòzßºµß†ÆºµÆ¬‚–¬Æº˛…S‚ı˙Áÿ¬ÆÆ¬‚Ïıˇˇ˙ıÁ◊†Ä©ºµ†ôßºº¬ÿÁﬂ…Æ…–……ﬂÏÏﬂÿ–ºº–‚Ïıˇˇ‚Á›–ß©ß†ôôÆ¬…–‚Áﬂÿ¬ﬂﬂÿ–ﬂ‚˛ÿRﬂÿﬂﬂ‚‚ÏıÏﬂﬂÁÏ◊¨†äíôßºÿ‚ÁıÁÁﬂ‚ﬂÿﬂﬂ–……ÿ‚ÏÁﬂﬂ‚ÏÏÁ‚‚Á’ÆßääßµºÿÁˇˇ˙Áﬂÿ––ÿÿ…ºº…–˛Áˇﬂ ‚˛ÏÁ‚ﬂﬂ‚˙ÿµßíÇíôÆ…‚ı˛ˇÏﬂ–¬¬ÿÿ¬¬Æíµÿ‚ÁÁ‚˛ÏÁ‚ÿﬂﬂ‚ˇÿßÆôääzô…‚Ï˙ˇ˙Ïÿ–…¬˛ÿ…íäß–‚ˇıÏÏÁ‚˛ÿ!ﬂÁˇÿµ¬…¬–……ﬂÁÏÏÁﬂ––ÿ–…ÿ‚–Æß¬‚‚ÁÏÏ˛Á‚ﬂÿﬂ‚ﬂÿÿﬂÏ˛˙ıÏÁ‚ÿ…¬…ﬂﬂ––Á‚…¬ÿÿﬂÿﬂ‚‚ÁÁ˝‚Ï‚ﬂﬂÿ…ﬂıˇˇıı‚ÿ…¬º¬–‚ÿﬂ‚ﬂ¸…ÿﬂ‚‚ÁÁ˛Ïˇı…‚ÿ––‚ÏˇıÁﬂÁﬂ…˝ºÿÁﬂﬂ––¬…¬µº–‚‚ﬂÿﬂÏ¸ıLˇÿﬂÁÁÁÿ¬º¬…ºßµº¬ÿÁﬂ…º¬……µßºÿﬂÿ…¬…‚ı˙ıı˙ﬂ…à¬–¬¬…µÆßßÆÆßßµ¬ÿﬂ–µÆµººÆ†Æ…ÿÿºßº‚˛ˇıà¬ß¬††˛Æ˛ß
+†ô†¢º…–…¬µÆ˛µ †ääß–ÿµßµﬂÁ‚⁄‚Ïò†àßÄâä†ßµÆ†ôôçùæ…¸º%¬ºµôÇz†…ÿºßµ–ﬂ⁄ŒÃ⁄ààßßàYrä†ÆÆôôÖï´π≤ÆÆ˛µˇ¬<ºôÇÇÆÿ–µßÆ≈⁄«¿πﬂêêààxaQyíÆÆ†É~ï•ùùõÆµÆÆµºÆíÇÇß–…Æß¢∞´•≤Œ‚êÄqi˛qKÄ†µÆùÖÖãçÖÇç•µÆÆµÆôäÇíß…¬Æ†ññçñ¿ﬂàÄiiÄêòß¬……ßçêíäÄÄçßÆÆßµÆ†íôßº…ÿµô¢èä©ÃÁx˛Äòµ¬¬–µ¬Æò††òàà˛†<òº…ºßÆº…¬…––¬¬Æ†∞Ã⁄ÁuÄêòµ…ÿÿ‹«¿§†ßßêÖàòµŒºŒﬂ…ÆÆ–Á‚––ﬂÿÿßß©æÃﬂˇi/xqàßßqàêêöß∞’–ºöêèô†íäºÆÆﬂﬂ…ÿº≥ñ†àkêßãÖIIaQiàixà˛êF¢≥ß†àéé†ßÆµß†Æµ¬ßíßß†äèé]áõÖ~iYYIQqxÄààêòòµµòµëÇíßµµ¬¬ºµôzÇô†ôííëèßí_gq˝a x˛Äàêò†˛ß%µäÇí†Æµ–‚ÿ¬ôääí††ôßßÆ≤uE@òiiêàêàÄàêêò†˛ßµ†íôßÆµ¬–…µ†ôí†ßÆµÆÆßõÖOWxaax˝ò¸ê†ß˛º˛µ Æ˝ß †˝ß$Æº¬ºßßôâ_çaxiqàò†ß†êàxÄêôôÆ–ÿ–¬ºÆ†ôô†˝ß,µ¬…ºµÆßí|~xqqÄÄàòÆòàxiyíÇôº‚Áÿ…¬¬ÆÆß†ôäíßÆ¬––˛µ<ß†ßÄàêàÄxêÆòÄaarÇÇô–ÿÿﬂÿ¬ºÆíäÇzíÆº…µÆµºµµºàò†òxià††qbbjÇÇô–˝Á(Ï……¬ßôííäôßµ¬µµºº¬¬…ÆµÆÆàqxêêrzrÇíôß¬ﬂ‚ÁÏ˛ﬂ¬ÆßÆµÆßÆº¬…¬…˛¬ˇ–5…¬¬µêàòÅrrzäÆºº…‚ÏÏÁ‚ÁÁ…µµ¬¬ºµµ¬–…ﬂﬂÿ–…ÿ”ºº……µêârÇÇrÇß˛…ﬂﬂﬂ‚ÏÁ–º˛µFÆ…–ÿ‚ÁÏıÁ‚ÿ◊©òº…µ†íôß†ä†Æ…¬µ–……ÿ‚ıˇ‚…ºÆ†ºÿÁÁÏ˙ˇˇıÏﬂˇòzßºµß†ÆºµÆ¬‚–¬Æº˛…S‚ı˙Áÿ¬ÆÆ¬‚Ïıˇˇ˙ıÁ◊†Ä©ºµ†ôßºº¬ÿÁﬂ…Æ…–……ﬂÏÏﬂÿ–ºº–‚Ïıˇˇ‚Á›–ß©ß†ôôÆ¬…–‚Áﬂÿ¬ﬂﬂÿ–ﬂ‚˛ÿRﬂÿﬂﬂ‚‚ÏıÏﬂﬂÁÏ◊¨†äíôßºÿ‚ÁıÁÁﬂ‚ﬂÿﬂﬂ–……ÿ‚ÏÁﬂﬂ‚ÏÏÁ‚‚Á’ÆßääßµºÿÁˇˇ˙Áﬂÿ––ÿÿ…ºº…–˛Áˇﬂ ‚˛ÏÁ‚ﬂﬂ‚˙ÿµßíÇíôÆ…‚ı˛ˇÏﬂ–¬¬ÿÿ¬¬Æíµÿ‚ÁÁ‚˛ÏÁ‚ÿﬂﬂ‚ˇÿßÆôääzô…‚Ï˙ˇ˙Ïÿ–…¬˛ÿ…íäß–‚ˇıÏÏÁ‚˛ÿ!ﬂÁˇÿµ¬…¬–……ﬂÁÏÏÁﬂ––ÿ–…ÿ‚–Æß¬‚‚ÁÏÏ˛Á‚ﬂÿﬂ‚ﬂÿÿﬂÏ˛˙ıÏÁ‚ÿ…¬…ﬂﬂ––Á‚…¬ÿÿﬂÿﬂ‚‚ÁÁ˝‚Ï‚ﬂﬂÿ…ﬂıˇˇıı‚ÿ…¬º¬–‚ÿﬂ‚ﬂ¸…ÿﬂ‚‚ÁÁ˛Ïˇı…‚ÿ––‚ÏˇıÁﬂÁﬂ…˝ºÿÁﬂﬂ––¬…¬µº–‚‚ﬂÿﬂÏ¸ıLˇÿﬂÁÁÁÿ¬º¬…ºßµº¬ÿÁﬂ…º¬……µßºÿﬂÿ…¬…‚ı˙ıı˙ﬂ…à¬–¬¬…µÆßßÆÆßßµ¬ÿﬂ–µÆµººÆ†Æ…ÿÿºßº‚˛ˇıà¬ß¬††˛Æ˛ß
+†ô†¢º…–…¬µÆ˛µ †ääß–ÿµßµﬂÁ‚⁄‚Ïò†àßÄâä†ßµÆ†ôôçùæ…¸º%¬ºµôÇz†…ÿºßµ–ﬂ⁄ŒÃ⁄ààßßàYrä†ÆÆôôÖï´π≤ÆÆ˛µˇ¬<ºôÇÇÆÿ–µßÆ≈⁄«¿πﬂêêààxaQyíÆÆ†É~ï•ùùõÆµÆÆµºÆíÇÇß–…Æß¢∞´•≤Œ‚êÄqi˛qKÄ†µÆùÖÖãçÖÇç•µÆÆµÆôäÇíß…¬Æ†ññçñ¿ﬂàÄiiÄêòß¬……ßçêíäÄÄçßÆÆßµÆ†íôßº…ÿµô¢èä©ÃÁx˛Äòµ¬¬–µ¬Æò††òàà˛†<òº…ºßÆº…¬…––¬¬Æ†∞Ã⁄ÁuÄêòµ…ÿÿ‹«¿§†ßßêÖàòµŒºŒﬂ…ÆÆ–Á‚––ﬂÿÿßß©æÃﬂˇ~/êá£»»á£¨¨∏»”ˇ˘·∏¨´∑¿Ø•·––ˇˇÒˇ·÷¥¿£Ä¨»¶üWWta~£~ê£˛¨F¬÷»¿£™™¿»–Ÿ»¿–ŸË»Ø»»¿•´™o¢∫üó~jjWaáêô££¨∂∂ŸŸ∂ŸÆúØ»ŸŸËË·Ÿ∑íú∑¿∑ØØÆ´»Ør{á˝t ê˛ô£¨∂¿˛»%Ÿ•úØ¿–Ÿ˘ˇˇË∑••Ø¿¿∑»»–’åRL∂~~¨£¨£ô£¨¨∂¿˛»Ÿ¿Ø∑»–ŸË˘ÒŸ¿∑Ø¿»–Ÿ––»∫ü^hêttê˝∂¸¨¿»˛·˛Ÿ –˝» ¿˝»$–·Ë·»»∑§r©tê~á£∂¿»¿¨£êô¨∑∑–˘ˇ˘Ë·–¿∑∑¿˝»ŸËÒ·Ÿ–»Øîóêááôô£∂–∂£ê~ëØú∑·˛ˇÒËË––»¿∑•Ø»–Ë˘˘˛Ÿ»¿»ô£¨£ôê¨–∂ôttàúú∑˘˚ˇ"Ë·–Ø•úíØ–·ÒŸ–Ÿ·ŸŸ·£∂¿∂ê~£¿¿áuuúú∑˘¸ˇˇÒ!Ë»∑ØØ•∑»ŸËŸŸ··ËËÒ–Ÿ––£áê¨¨àíàúØ∑»Ë˙ˇË–»–Ÿ–»–·ËÒËÒ˛Ëˇ˘ÒËËŸ¨£∂öààí•–··Ò˙ˇ
+ÒŸŸËË·ŸŸË˘Ò˛ˇ˘Òˇ˝··ÒÒŸ¨§àúúàú»˛Ò˙ˇ˘·˛Ÿ–Ò˘˜ˇ ∂·ÒŸ¿Ø∑»¿•¿–ÒËŸ˘ÒÒ¸ˇÒ·–¿·ıˇ∂í»·Ÿ»¿–·Ÿ–Ëˇ˘Ë–·˛Ò¸ˇË––Ëıˇ
+¿ô ·Ÿ¿∑»··Ë˛ˇÒ–Ò˘ÒÒ¸ˇ˘··˘ıˇ
+˘» »¿∑∑–ËÒ˘˝ˇ Ë˛ˇ ˘ÎˇŒ¿•Ø∑»·Ùˇ˘ÒÒÔˇ–»••»Ÿ·¯ˇˇ˘ˇˇÒ··Ò˘ÒˇŸ»ØúØ∑–Ò˙ˇ	˘ËËˇˇËË–ØŸÒˇ»–∑••í∑Ò˙ˇ˘ÒË˛ˇÒØ•»˘ÚˇŸËÒË˘ÒÒ˙ˇˇ˘ˇ˘Òˇˇ˘–»Ë‰ˇ
+ÒËÒˇˇ˘˘ˇˇÒËÓˇ Ò¯ˇÒË·Ë˘¸ˇ¸ÒıˇÒˇˇ˘˘˘ˇ Ò˝·˝ˇˇ˘ËÒËŸ·˘ÌˇË·ËÒ·»Ÿ·Ë˛ˇÒ·ËÒÒŸ»·˛ˇÒËÒ˙ˇ!Ò£Ë˘ËËÒŸ–»»––»»ŸËˇˇ˘Ÿ–Ÿ··–¿–Òˇˇ·»·˚ˇ£Ë»Ë¿¿˛–˛»
+¿∑¿¬·Ò˘ÒËŸ–˛Ÿ¿••»˘ˇŸ»Ÿ˚ˇ∂¿£»ô§•¿»Ÿ–¿∑∑©º‰Ò¸·%Ë·Ÿ∑úí¿Òˇ·»Ÿ˘ˇˇ˜Ùˇ££»»£jà•¿––∑∑ü≤Õﬁ’––˛ŸˇË<·∑úú–ˇ˘Ÿ»–ÏˇÓÊﬁˇ¨¨££êtaëØ––¿ùó≤∆ºº∫–Ÿ––Ÿ·–Øúú»˘Ò–»¬”Õ∆’˜ˇ¨ôá~˛áKô¿Ÿ–ºüü¶©üú©∆Ÿ––Ÿ–∑•úØ»ÒË–¿¥¥©¥Êˇˇ£ô~~ô¨∂»ËÒÒ»©¨Ø•ôô©»––»Ÿ–¿Ø∑»·ÒˇŸ∑¬´• Ùˇˇê˛ô∂ŸËË˘ŸË–∂¿¿∂££˛¿∂·Ò·»–·ÒËÒ˘˘ËË–¿”Ùˇˇåô¨∂ŸÒ˛ˇÓÊƒ¿»»¨ü£∂Ÿ˜·˜ˇÒ––˘ˇˇ˘˘˛ˇˇ» ‰Ùˇ$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       brit 1
+       }
+      }
+     }
+    }
+   }
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

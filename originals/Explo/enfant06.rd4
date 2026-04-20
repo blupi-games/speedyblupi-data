@@ -1,0 +1,630 @@
+3DC {
+ asci 1
+ vs "1.0"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 128
+  heig 128
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra 2"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    OVER 1
+    MAXR 2
+    MAXT 6
+    MAXA 2
+    FLAT 1
+    LITE 1
+    DRLC 0
+    QD3D 0
+    GBCK 1
+    }
+   }
+  oopt 1
+  Ofil "C:\\RAYDREAM\\RayDream.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra 2"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 4
+     locV 790
+     sizH 1172
+     sizV 291
+     flot 0
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 6
+     locV 25
+     sizH 1170
+     sizV 739
+     flot 0
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra 2"
+ ShLv 3
+ Zoom 8
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 48,0,770,1024
+ }
+      }
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,420,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 25,25,54,171
+  dbnd 0,0,0,0
+  nbnd 25,25,54,171
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ back {
+  colo {
+   colo 0.5,0.5,0.5
+   }
+  }
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 0.50632
+   }
+  }
+ }
+sc {
+ nm "enfant05"
+ nxtL 1
+ nxtC 2
+ nxtG 4
+ nxtO 0
+ ob {
+  cyli {
+   prim {
+    cyli {
+     }
+    }
+   nm "Cylindre"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  sp {
+   prim {
+    sp {
+     }
+    }
+   nm "Sphère"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,3.14159,6.28319
+      mbox 0,0,3.14159,6.28319
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 41.03899,40.64278,7.67867
+      mat -0.70505,-0.27097,0.65527,0.70901,-0.28018,0.64703,0.0083,0.9209,0.38977
+      }
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      spot {
+       colo 0.5,0.5,0.5
+       angl 45
+       fall 0
+       brit 1.50722
+       shad 1
+       dfal 0
+       dist 262144000
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 11.00136,-18.73511,5.40999
+      mat 0.51321,-0.38528,0.76691,0.85825,0.23044,-0.45856,-0.00006,0.89355,0.44897
+      Scal 1.09322
+      }
+     defo {
+      affi {
+       ScaX 1.02576
+       ScaY 4.51076
+       ScaZ 1.03873
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     only 0
+     }
+    ca {
+     nm "Caméra 2"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 4.8494,-4.15294,-10.36591
+      mat 0.00034,-0.00034,0.99997,0.99997,0,-0.00034,0.00003,0.99997,0.00034
+      }
+     proj {
+      iso {
+       zoom 6.21828
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 4.39371,5.52756
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -11.49905,-3.99979,-8.49931
+      Scal 0.6666
+      }
+     defo {
+      affi {
+       ScaX 2.24995
+       ScaY 2.25
+       ScaZ 2.24995
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,3.14159,6.28319
+        mbox 0,0,3.14159,6.28319
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 1
+             seam 0
+             cnth 3
+             cntv 2
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             }
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "15:41:1522364438"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Sphère"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -11.49907,-3.99957,-12.49954
+      }
+     defo {
+      affi {
+       ScaX 0.33336
+       ScaY 0.33336
+       ScaZ 1.00018
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,3.66666,6.28319
+        mbox 0,0,3.66666,6.28319
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.99608,0
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cylindre"
+     }
+    }
+   boxM 43.51096,43.12834,9.46634
+   boxm -14.49863,-20.92793,-14.99857
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    ROBJ {
+     IDEN {
+      REFN 0
+      TIME "15:41:1522364438"
+      }
+     DATA {
+      stor 0
+      w 100
+      h 100
+      dpth 32
+      tils 64,64
+      TDTA {
+       TILE $FFFFFFFFF8FEFA00D6FEFC00FAFEF600DAFEFA00FCFEF200DEFEF800FDFEF000E0FEF700FEFEEE00E2FEF600FFFEEC00E4FEF500FFFEEC00E4FEF50000FEEA00E6FEF40000FEEA00E6FEDB00E8FEDA00E8FEDA00E8FEDA00E8FEDA00E8FEDA00E8FEDA00E8FEF30000FEEA00E6FEF40000FEEA00E6FEF400FFFEEC00E4FEF500FFFEEC00E4FEF500FEFEEE00E2FEF600FDFEF000E0FEF700FCFEF200DEFEF800FAFEF600DAFEFA00F8FEFA00D6FEFC00DFFEFA00CAFEF600CEFEF200D1FEF000D3FEEE00D5FEEC00D6FEEC00D7FEEA00D8FEEA00D9FEE800DAFEE800DAFEE800DAFEE800DAFEE800DAFEE800DAFEE800D9FEEA00D8FEEA00D7FEEC00D6FEEC00D5FEEE00D3FEF000D1FEF200CEFEF600CAFEFA00E1FEFA00D6FEFC00FAFEF600DAFEFA00FCFEF200DEFEF800FDFEF000E0FEF700FEFEEE00E2FEF600FFFEEC00E4FEF500FFFEEC00E4FEF50000FEEA00E6FEF40000FEEA00E6FEDB00E8FEDA00E8FEDA00E8FEDA00E8FEDA00E8FEF300F87BFAE4D67BFCE4FA7BF6E4DA7BFAE4FC7BF2E4DE7BF8E4FD7BF0E4E07BF7E4FE7BEEE4E27BF6E4FF7BECE4E47BF5E4FF7BECE4E47BF5E4007BEAE4E67BF4E4007BEAE4E67BDBE4E87BDAE4E87BDAE4E87BDAE4E87BDAE4E87BDAE4E87BDAE4E87BF3E4007BEAE4E67BF4E4007BEAE4E67BF4E4FF7BECE4E47BF5E4FF7BECE4E47BF5E4FE7BEEE4E27BF6E4FD7BF0E4E07BF7E4FC7BF2E4DE7BF8E4FA7BF6E4DA7BFAE4F87BFAE4D67BFCE4DF7BFAE4CA7BF6E4CE7BF2E4D17BF0E4D37BEEE4D57BECE4D67BECE4D77BEAE4D87BEAE4D97BE8E4DA7BE8E4DA7BE8E4DA7BE8E4DA7BE8E4DA7BE8E4DA7BE8E4D97BEAE4D87BEAE4D77BECE4D67BECE4D57BEEE4D37BF0E4D17BF2E4CE7BF6E4CA7BFAE4E17BFAE4D67BFCE4FA7BF6E4DA7BFAE4FC7BF2E4DE7BF8E4FD7BF0E4E07BF7E4FE7BEEE4E27BF6E4FF7BECE4E47BF5E4FF7BECE4E47BF5E4007BEAE4E67BF4E4007BEAE4E67BDBE4E87BDAE4E87BDAE4E87BDAE4E87BDAE4E87BF3E4F83CFAE4D63CFCE4FA3CF6E4DA3CFAE4FC3CF2E4DE3CF8E4FD3CF0E4E03CF7E4FE3CEEE4E23CF6E4FF3CECE4E43CF5E4FF3CECE4E43CF5E4003CEAE4E63CF4E4003CEAE4E63CDBE4E83CDAE4E83CDAE4E83CDAE4E83CDAE4E83CDAE4E83CDAE4E83CF3E4003CEAE4E63CF4E4003CEAE4E63CF4E4FF3CECE4E43CF5E4FF3CECE4E43CF5E4FE3CEEE4E23CF6E4FD3CF0E4E03CF7E4FC3CF2E4DE3CF8E4FA3CF6E4DA3CFAE4F83CFAE4D63CFCE4DF3CFAE4CA3CF6E4CE3CF2E4D13CF0E4D33CEEE4D53CECE4D63CECE4D73CEAE4D83CEAE4D93CE8E4DA3CE8E4DA3CE8E4DA3CE8E4DA3CE8E4DA3CE8E4DA3CE8E4D93CEAE4D83CEAE4D73CECE4D63CECE4D53CEEE4D33CF0E4D13CF2E4CE3CF6E4CA3CFAE4E13CFAE4D63CFCE4FA3CF6E4DA3CFAE4FC3CF2E4DE3CF8E4FD3CF0E4E03CF7E4FE3CEEE4E23CF6E4FF3CECE4E43CF5E4FF3CECE4E43CF5E4003CEAE4E63CF4E4003CEAE4E63CDBE4E83CDAE4E83CDAE4E83CDAE4E83CDAE4E83CF3E4$
+       TILE $FFFFFFFFFF00DFFEFD00E1FEFB00E3FEFA00E4FEF900E5FEF800E6FEF800E6FEF700E7FEF700E7FEF600E8FEF600E8FEF600E8FEF600E8FEF600E8FEF600E8FEF600E8FEF700E7FEF700E7FEF800E6FEF800E6FEF900E5FEFA00E4FEFB00E3FEFD00E1FEFF00CBFEFA00E6FEF600EAFEF200EDFEF000EFFEEE00F1FEEC00F2FEEC00F3FEEA00F4FEEA00F5FEE800F6FEE800F6FEE800F6FEE800F6FEE800F6FEE800F6FEE800F5FEEA00F4FEEA00F3FEEC00F2FEEC00F1FEEE00EFFEF000EDFEF200EAFEF600E6FEFA00F8FEFF00DFFEFD00E1FEFB00E3FEFA00E4FEF900E5FEF800E6FEF800E6FEF700E7FEF700E7FEF600E8FEF600E8FEF600E8FEF600E8FEF600E8FEFFE4DF7BFDE4E17BFBE4E37BFAE4E47BF9E4E57BF8E4E67BF8E4E67BF7E4E77BF7E4E77BF6E4E87BF6E4E87BF6E4E87BF6E4E87BF6E4E87BF6E4E87BF6E4E87BF7E4E77BF7E4E77BF8E4E67BF8E4E67BF9E4E57BFAE4E47BFBE4E37BFDE4E17BFFE4CB7BFAE4E67BF6E4EA7BF2E4ED7BF0E4EF7BEEE4F17BECE4F27BECE4F37BEAE4F47BEAE4F57BE8E4F67BE8E4F67BE8E4F67BE8E4F67BE8E4F67BE8E4F67BE8E4F57BEAE4F47BEAE4F37BECE4F27BECE4F17BEEE4EF7BF0E4ED7BF2E4EA7BF6E4E67BFAE4F87BFFE4DF7BFDE4E17BFBE4E37BFAE4E47BF9E4E57BF8E4E67BF8E4E67BF7E4E77BF7E4E77BF6E4E87BF6E4E87BF6E4E87BF6E4E87BF6E4E87BFFE4DF3CFDE4E13CFBE4E33CFAE4E43CF9E4E53CF8E4E63CF8E4E63CF7E4E73CF7E4E73CF6E4E83CF6E4E83CF6E4E83CF6E4E83CF6E4E83CF6E4E83CF6E4E83CF7E4E73CF7E4E73CF8E4E63CF8E4E63CF9E4E53CFAE4E43CFBE4E33CFDE4E13CFFE4CB3CFAE4E63CF6E4EA3CF2E4ED3CF0E4EF3CEEE4F13CECE4F23CECE4F33CEAE4F43CEAE4F53CE8E4F63CE8E4F63CE8E4F63CE8E4F63CE8E4F63CE8E4F63CE8E4F53CEAE4F43CEAE4F33CECE4F23CECE4F13CEEE4EF3CF0E4ED3CF2E4EA3CF6E4E63CFAE4F83CFFE4DF3CFDE4E13CFBE4E33CFAE4E43CF9E4E53CF8E4E63CF8E4E63CF7E4E73CF7E4E73CF6E4E83CF6E4E83CF6E4E83CF6E4E83CF6E4E83C$
+       TILE $FFFFFFFFE800E8FEDA00E8FEF30000FEEA00E6FEF40000FEEA00E6FEF400FFFEEC00E4FEF500FFFEEC00E4FEF500FEFEEE00E2FEF600FDFEF000E0FEF700FCFEF200DEFEF800FAFEF600DAFEFA00F8FEFA00D6FEFC00DFFEFA00CAFEF600CEFEF200D1FEF000D3FEEE00D5FEEC00D6FEEC00D7FEEA00D8FEEA00D9FEE800DAFEE800DAFEE800DAFEE800DAFEE800DAFEE800DAFEE800D9FEEA00D8FEEA00D7FEEC00D6FEEC00D5FEEE00D3FEF000D1FEF200CEFEF600CAFEFA00EAFEE8E4E87BDAE4E87BF3E4007BEAE4E67BF4E4007BEAE4E67BF4E4FF7BECE4E47BF5E4FF7BECE4E47BF5E4FE7BEEE4E27BF6E4FD7BF0E4E07BF7E4FC7BF2E4DE7BF8E4FA7BF6E4DA7BFAE4F87BFAE4D67BFCE4DF7BFAE4CA7BF6E4CE7BF2E4D17BF0E4D37BEEE4D57BECE4D67BECE4D77BEAE4D87BEAE4D97BE8E4DA7BE8E4DA7BE8E4DA7BE8E4DA7BE8E4DA7BE8E4DA7BE8E4D97BEAE4D87BEAE4D77BECE4D67BECE4D57BEEE4D37BF0E4D17BF2E4CE7BF6E4CA7BFAE4EA7BE8E4E83CDAE4E83CF3E4003CEAE4E63CF4E4003CEAE4E63CF4E4FF3CECE4E43CF5E4FF3CECE4E43CF5E4FE3CEEE4E23CF6E4FD3CF0E4E03CF7E4FC3CF2E4DE3CF8E4FA3CF6E4DA3CFAE4F83CFAE4D63CFCE4DF3CFAE4CA3CF6E4CE3CF2E4D13CF0E4D33CEEE4D53CECE4D63CECE4D73CEAE4D83CEAE4D93CE8E4DA3CE8E4DA3CE8E4DA3CE8E4DA3CE8E4DA3CE8E4DA3CE8E4D93CEAE4D83CEAE4D73CECE4D63CECE4D53CEEE4D33CF0E4D13CF2E4CE3CF6E4CA3CFAE4EA3C$
+       TILE $FFFFFFFFF600E8FEF600E8FEF700E7FEF700E7FEF800E6FEF800E6FEF900E5FEFA00E4FEFB00E3FEFD00E1FEFF00CBFEFA00E6FEF600EAFEF200EDFEF000EFFEEE00F1FEEC00F2FEEC00F3FEEA00F4FEEA00F5FEE800F6FEE800F6FEE800F6FEE800F6FEE800F6FEE800F6FEE800F5FEEA00F4FEEA00F3FEEC00F2FEEC00F1FEEE00EFFEF000EDFEF200EAFEF600E6FEFA00F8FEF6E4E87BF6E4E87BF7E4E77BF7E4E77BF8E4E67BF8E4E67BF9E4E57BFAE4E47BFBE4E37BFDE4E17BFFE4CB7BFAE4E67BF6E4EA7BF2E4ED7BF0E4EF7BEEE4F17BECE4F27BECE4F37BEAE4F47BEAE4F57BE8E4F67BE8E4F67BE8E4F67BE8E4F67BE8E4F67BE8E4F67BE8E4F57BEAE4F47BEAE4F37BECE4F27BECE4F17BEEE4EF7BF0E4ED7BF2E4EA7BF6E4E67BFAE4F87BF6E4E83CF6E4E83CF7E4E73CF7E4E73CF8E4E63CF8E4E63CF9E4E53CFAE4E43CFBE4E33CFDE4E13CFFE4CB3CFAE4E63CF6E4EA3CF2E4ED3CF0E4EF3CEEE4F13CECE4F23CECE4F33CEAE4F43CEAE4F53CE8E4F63CE8E4F63CE8E4F63CE8E4F63CE8E4F63CE8E4F63CE8E4F53CEAE4F43CEAE4F33CECE4F23CECE4F13CEEE4EF3CF0E4ED3CF2E4EA3CF6E4E63CFAE4F83C$
+       }
+      DefM {
+       tile 1
+       seam 0
+       cnth 3
+       cntv 2
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       }
+      }
+     }
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

@@ -1,0 +1,563 @@
+3DC {
+ asci 1
+ vs "1.0"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 64
+  heig 64
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra 2"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    OVER 1
+    MAXR 2
+    MAXT 6
+    MAXA 2
+    FLAT 1
+    LITE 1
+    DRLC 0
+    QD3D 0
+    GBCK 1
+    }
+   }
+  oopt 1
+  Ofil "C:\\RAYDREAM\\RayDream.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra 2"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 4
+     locV 722
+     sizH 993
+     sizV 359
+     flot 0
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 6
+     locV 25
+     sizH 1170
+     sizV 670
+     flot 0
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra 1"
+ ShLv 3
+ Zoom 8
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 176,0,829,1024
+ }
+      }
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,420,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 25,25,54,171
+  dbnd 0,0,0,0
+  nbnd 25,25,54,171
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ back {
+  colo {
+   colo 0.5,0.5,0.5
+   }
+  }
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 1
+   }
+  }
+ }
+sc {
+ nm "techno03"
+ nxtL 1
+ nxtC 2
+ nxtG 4
+ nxtO 0
+ ob {
+  ex {
+   nm "Mur fond 1"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 0
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-1,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -0.99988,0.99988
+         ss {
+          s1 -1,-1
+          s1 1,-1
+          s1 1,1
+          s1 -0.99988,0.99988
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,1,0
+     cv 0,1,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.24997
+    incr 1
+    show 1
+    snap 1
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 41.03899,40.64278,7.67867
+      mat -0.70551,-0.27011,0.65515,0.70859,-0.28061,0.64734,0.00903,0.92102,0.38943
+      }
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      dist {
+       colo 0.5,0.5,0.5
+       brit 2
+       shad 1
+       dire 0.58452,-0.63176,0.50911
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 20.00055,-5.23636,-3.58916
+      mat 0.1543,-0.40024,0.90332,0.98801,0.06277,-0.14093,-0.00024,0.91425,0.40518
+      Scal 1.09322
+      }
+     defo {
+      affi {
+       ScaX 1.02576
+       ScaY 4.51076
+       ScaZ 1.03873
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     only 0
+     }
+    ca {
+     nm "Caméra 2"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 4.8494,-4.15294,-10.36591
+      mat 0.00018,-0.00015,0.99997,0.99997,0,-0.00015,0.00003,0.99997,0.00018
+      }
+     proj {
+      iso {
+       zoom 6.21828
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 4.39371,5.52756
+     }
+    inpr {
+     nm "mur sud"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -14.49973,-3.50002,-9.50011
+      mat 0.00015,-0.99997,0,0.99997,0.00015,0,0,0,1
+      Scal 0.73111
+      }
+     defo {
+      affi {
+       ScaX 7.52231
+       ScaY 0.68375
+       ScaZ 7.52245
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 4
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 0
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             }
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "22:09:179297091"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0.2473
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Mur fond 1"
+     }
+    }
+   boxM 43.51041,43.1284,9.46767
+   boxm -15.00049,-8.99974,-14.99985
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    ROBJ {
+     IDEN {
+      REFN 0
+      TIME "22:09:179297091"
+      }
+     DATA {
+      stor 0
+      w 64
+      h 64
+      dpth 32
+      tils 64,64
+      TDTA {
+       TILE $FFFFFFFFF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4FD5AFB20FB5AF1F4F15AF1F4FE5AF920FC5AF1F4F15AF1F4FF5AF720FD5AF1F4F15AF1F4FF5AF720FD5AF1F4F15AF1F4FF5AF720FD5AF1F4F15AF1F4FF5AF720FD5AF1F4F15AF1F4FF5AF720FD5AF1F4F15AF1F4FF5AF720FD5AF1F4F15AF1F4FF5AF820EC5AF6F4F620F75AFEF4FA20FBF4F15AF9F4F220F85AFEF4FC20F9F4F15AFAF4ED20FC5AFEF4FD20F8F4F15AFCF4EA20FD5AFFF4FC20F8F4F15AFDF4F820FEF4FD5AF920FD5AFFF4FD20F7F4F15AFDF4FB20FBF4FB5AF120F7F4F15AFEF4FB20FAF4F85AF520F6F4F15AFEF4FD20F8F4F85AF620F5F4F15AFFF4FC20FCF4F720FD5AF820F4F4F15AFFF4FD20FCF4F520F85AF1F4F15AFFF4FD20FDF4F320F95AF1F4F15AFFF4FD20FEF4F220F95AF1F4F15A00F4FC20FEF4FC20FFF4FD5AFD20F95AF1F4F15A00F4FD20FEF4FC20FEF4FD5AFC20FA5AF1F4F15A00F4FD20FEF4FC20FEF4FD5AFC20FA5AF1F4F15A00F4FD20FEF4FC20FFF4FF20FD5AFD20FA5AE1F4005AFD20FE5AFC20005AFD20FEF4FD20FAF4F15AF1F4005AFD20FD5AF820FEF4FD20FAF4F15AF1F4005AFD20FD5AF820FEF4FD20FAF4F15AF1F4005AFD20FC5AFA20FDF4FD20FAF4F15AF1F4005AFC20FB5AFD20FDF4FC20FAF4F15AF1F4FF5AFD20F75AFDF4FC20FAF4F15AF1F4FF5AFC20F85AFEF4FC20F9F4F15AF1F4FF5AFB20F95AFEF4FD20F8F4F15AF1F4FE5AFA20FC5AF920F8F4F15AF1F4FD5AEF20F7F4F15AF1F4FC5AF020F7F4F15AF1F4FB5AF220F6F4F15AF1F4F95AF820F2F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4E15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F15AF1F4F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101FDF2FB2AFBF2F101F1F2F101FEF2F92AFCF2F101F1F2F101FFF2F72AFDF2F101F1F2F101FFF2F72AFDF2F101F1F2F101FFF2F72AFDF2F101F1F2F101FFF2F72AFDF2F101F1F2F101FFF2F72AFDF2F101F1F2F101FFF2F72AFDF2F101F1F2F101FFF2F82AECF2F601F62AF7F2FE01FA2AFB01F1F2F901F22AF8F2FE01FC2AF901F1F2FA01ED2AFCF2FE01FD2AF801F1F2FC01EA2AFDF2FF01FC2AF801F1F2FD01F82AFE01FDF2F92AFDF2FF01FD2AF701F1F2FD01FB2AFB01FBF2F12AF701F1F2FE01FB2AFA01F8F2F52AF601F1F2FE01FD2AF801F8F2F62AF501F1F2FF01FC2AFC01F72AFDF2F82AF401F1F2FF01FD2AFC01F52AF8F2F101F1F2FF01FD2AFD01F32AF9F2F101F1F2FF01FD2AFE01F22AF9F2F101F1F20001FC2AFE01FC2AFF01FDF2FD2AF9F2F101F1F20001FD2AFE01FC2AFE01FDF2FC2AFAF2F101F1F20001FD2AFE01FC2AFE01FDF2FC2AFAF2F101F1F20001FD2AFE01FC2AFF01FF2AFDF2FD2AFAF2E10100F2FD2AFEF2FC2A00F2FD2AFE01FD2AFA01F1F2F10100F2FD2AFDF2F82AFE01FD2AFA01F1F2F10100F2FD2AFDF2F82AFE01FD2AFA01F1F2F10100F2FD2AFCF2FA2AFD01FD2AFA01F1F2F10100F2FC2AFBF2FD2AFD01FC2AFA01F1F2F101FFF2FD2AF7F2FD01FC2AFA01F1F2F101FFF2FC2AF8F2FE01FC2AF901F1F2F101FFF2FB2AF9F2FE01FD2AF801F1F2F101FEF2FA2AFCF2F92AF801F1F2F101FDF2EF2AF701F1F2F101FCF2F02AF701F1F2F101FBF2F22AF601F1F2F101F9F2F82AF201F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101E1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F1F2F101F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101FD56FB85FB56F101F156F101FE56F985FC56F101F156F101FF56F785FD56F101F156F101FF56F785FD56F101F156F101FF56F785FD56F101F156F101FF56F785FD56F101F156F101FF56F785FD56F101F156F101FF56F785FD56F101F156F101FF56F885EC56F601F685F756FE01FA85FB01F156F901F285F856FE01FC85F901F156FA01ED85FC56FE01FD85F801F156FC01EA85FD56FF01FC85F801F156FD01F885FE01FD56F985FD56FF01FD85F701F156FD01FB85FB01FB56F185F701F156FE01FB85FA01F856F585F601F156FE01FD85F801F856F685F501F156FF01FC85FC01F785FD56F885F401F156FF01FD85FC01F585F856F101F156FF01FD85FD01F385F956F101F156FF01FD85FE01F285F956F101F1560001FC85FE01FC85FF01FD56FD85F956F101F1560001FD85FE01FC85FE01FD56FC85FA56F101F1560001FD85FE01FC85FE01FD56FC85FA56F101F1560001FD85FE01FC85FF01FF85FD56FD85FA56E1010056FD85FE56FC850056FD85FE01FD85FA01F156F1010056FD85FD56F885FE01FD85FA01F156F1010056FD85FD56F885FE01FD85FA01F156F1010056FD85FC56FA85FD01FD85FA01F156F1010056FC85FB56FD85FD01FC85FA01F156F101FF56FD85F756FD01FC85FA01F156F101FF56FC85F856FE01FC85F901F156F101FF56FB85F956FE01FD85F801F156F101FE56FA85FC56F985F801F156F101FD56EF85F701F156F101FC56F085F701F156F101FB56F285F601F156F101F956F885F201F156F101F156F101F156F101F156F101F156F101F156F101E156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101F156F101$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       }
+      }
+     }
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

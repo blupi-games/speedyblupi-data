@@ -1,0 +1,1141 @@
+3DC {
+ asci 1
+ vs "1.0"
+ sf "Ray Dream Designer(R) 3"
+ prvw 0
+ comm ""
+ RSet {
+  pltf 1464422002
+  name "Défaut"
+  comt ""
+  widt 64
+  heig 64
+  dpi 72
+  kpro 0
+  dept 8
+  C 1
+  A 1
+  D 0
+  I 0
+  N 0
+  P 0
+  S 0
+  came "Caméra 2"
+  OSTy 1414088192
+  hour 1
+  min 0
+  rbat {
+   jfsR {
+    REFL 1
+    TRAN 1
+    ACTI 1
+    SHAD 1
+    BUMP 1
+    OVER 1
+    MAXR 2
+    MAXT 6
+    MAXA 2
+    FLAT 1
+    LITE 1
+    DRLC 0
+    QD3D 0
+    GBCK 1
+    }
+   }
+  oopt 1
+  Ofil "C:\\PROGRAM FILES\\RAYDREAM40\\RayDream.tif"
+  movi 0
+  tchf 0
+  anim {
+   begT 0,1800
+   endT 3600,1800
+   FSec 6
+   MOVW 1096173824
+   WOPT {
+    SIZE 24
+    DATA 000000000000000000000000000000000000000000000000
+    }
+   }
+  }
+ CamL {
+  CamN "Caméra 1"
+  CamN "Caméra 2"
+  }
+ }
+wkmg {
+ wlst {
+  work {
+   name "Document Windows"
+   wind {
+    winf {
+     type 1214866759
+     locH 4
+     locV 722
+     sizH 993
+     sizV 359
+     flot 0
+     stat 1
+     }
+    winf {
+     type 1348817523
+     locH 6
+     locV 23
+     sizH 1065
+     sizV 670
+     flot 0
+     stat 1
+     exin {
+MInf {
+ CaPo 7
+ CaNm "Caméra 2"
+ ShLv 3
+ Zoom 8
+ Plns 240
+ WBxm -15,-15,-15
+ WBxM 15,15,15
+ WMat 1,0,0,0,0,1,0,0,0,0,1,0,1,1,1,1
+ VisR 176,0,829,1024
+ }
+      }
+     }
+    }
+   afrb 552
+   afrl 0
+   afrr 799
+   afrt 0
+   apst 2
+   sszh 32000
+   sszv 32000
+   vers 350
+   TbSt 0
+   TbSw 0
+   dock {
+dock {
+ name "Standard"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 139,293,534,324
+  dbnd 0,0,0,0
+  nbnd 139,293,534,324
+  }
+ name "Controle de temps"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 19,770,49,1145
+  dbnd 0,0,0,0
+  nbnd 19,770,49,1145
+  }
+ name "Etat"
+ dwin {
+  shwn 1
+  dsts 4
+  lsts 4
+  ubnd 25,25,45,1177
+  dbnd 0,0,0,0
+  nbnd 25,25,45,1177
+  }
+ name "Outils"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 25,25,399,56
+  dbnd 0,0,0,0
+  nbnd 191,224,466,255
+  }
+ name "Plans"
+ dwin {
+  shwn 1
+  dsts 1
+  lsts 1
+  ubnd 176,113,206,145
+  dbnd 0,0,0,0
+  nbnd 176,113,206,145
+  }
+ name "Zoom"
+ dwin {
+  shwn 1
+  dsts 2
+  lsts 2
+  ubnd 0,0,0,0
+  dbnd 0,0,0,0
+  nbnd 0,0,0,0
+  }
+ }
+    }
+   }
+  }
+ }
+reff {
+ back {
+  colo {
+   colo 0.5,0.5,0.5
+   }
+  }
+ ambi {
+  cobr {
+   colo 0.5,0.5,0.5
+   brig 0.50632
+   }
+  }
+ }
+sc {
+ nm "teleporteur1"
+ nxtL 1
+ nxtC 2
+ nxtG 4
+ nxtO 0
+ ob {
+  co {
+   prim {
+    co {
+     }
+    }
+   nm "Cône"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  ex {
+   nm "Mur fond 1"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,7.99976,2
+      mbox 0,0,7.99976,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   pi 0
+   cl 0
+   ev 0
+   evs 0
+   evvs 0
+   evhs 0
+   ph {
+    sap {
+     cpc 0,0,0
+     cv 0,-1,0
+     cnc 0,-1,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      pv {
+       bb2D 0,0,0,0
+       pg {
+        p2 {
+         st -0.99988,0.99988
+         ss {
+          s1 -1,-1
+          s1 1,-1
+          s1 1,1
+          s1 -0.99988,0.99988
+          }
+         }
+        }
+       }
+      fl 1
+      sk 1
+      sksh 1
+      twst 0
+      oo 0
+      }
+     }
+    sap {
+     cpc 0,1,0
+     cv 0,1,0
+     cnc 0,0,0
+     tpc 1,0
+     tv 1,0
+     tnc 1,0
+     bpc 1,0
+     bv 1,0
+     bnc 1,0
+     lpc 1,0
+     lv 1,0
+     lnc 1,0
+     rpc 1,0
+     rv 1,0
+     rnc 1,0
+     cs {
+      fl 0
+      sk 1
+      sksh 1
+      twst 0
+      oo 1
+      }
+     }
+    }
+   grid {
+    valu 0.24997
+    incr 1
+    show 1
+    snap 1
+    spct 0,0,0
+    spsz 2
+    }
+   }
+  sp {
+   prim {
+    sp {
+     }
+    }
+   nm "Sphère"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  sp {
+   prim {
+    sp {
+     }
+    }
+   nm "Sphère 1"
+   sh {
+    mapk 0
+    elms {
+     sprm {
+      uvsp 0
+      aexp 1
+      bbox 0,0,2,2
+      mbox 0,0,2,2
+      shdr {
+       scmp {
+        prkd 1
+        ssub {
+         sclr {
+          prkd 1
+          colr 1,0,0
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0.5
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sval {
+          prkd 1
+          Val 0
+          }
+         sclr {
+          prkd 1
+          colr 0,0,0
+          }
+         }
+        }
+       }
+      opac 1
+      }
+     }
+    }
+   fidl 1
+   }
+  }
+ tr {
+  gr {
+   nm "Univers"
+   AnTr 1
+   Cloa 1
+   tran {
+    po 0,0,0
+    }
+   so {
+    ca {
+     nm "Caméra 1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 38.47162,37.97655,16.42792
+      mat -0.70535,-0.27039,0.65518,0.70874,-0.28046,0.64725,0.00876,0.92093,0.38956
+      }
+     proj {
+      coni {
+       foca 1165583648
+       zoom 50
+       }
+      }
+     cc 0
+     size 102.04706,68.03136
+     ofst 0,0
+     }
+    li {
+     lite {
+      dist {
+       colo 0.5,0.5,0.5
+       brit 2
+       shad 1
+       dire 0.58452,-0.63176,0.50911
+       shdw 1
+       }
+      }
+     nm "Lumière1"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 20.00055,-5.23636,-3.58916
+      mat 0.15445,-0.40033,0.90323,0.98798,0.06293,-0.14102,-0.00034,0.91415,0.4053
+      Scal 1.09322
+      }
+     defo {
+      affi {
+       ScaX 1.02576
+       ScaY 4.51076
+       ScaZ 1.03873
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     only 0
+     }
+    ca {
+     nm "Caméra 2"
+     AnTr 1
+     Cloa 1
+     tran {
+      po 17.60022,-4.15294,-10.36591
+      mat 0.00024,-0.00021,0.99997,0.99997,0,-0.00021,0.00003,0.99997,0.00024
+      }
+     proj {
+      iso {
+       zoom 6.21828
+       }
+      }
+     cc 1
+     size 102.04706,68.03136
+     ofst 4.39371,5.52756
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -3.64156,-7.38271,-5.2484
+      Scal 0.23984
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,3.14159,6.28319
+        mbox 0,0,3.14159,6.28319
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 1,0,0
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Sphère"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -14.11333,0.58269,2.01479
+      Scal 0.23984
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.99608,0
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Sphère"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -3.64258,-5.24222,-5.26781
+      Scal 0.23984
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,3.14159,6.28319
+        mbox 0,0,3.14159,6.28319
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0.99608,0.99608,0
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Sphère"
+     }
+    inpr {
+     nm "mur sud"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -9.30901,-3.50017,-5.83896
+      mat 0.00021,-0.99997,0,0.99997,0.00021,0,0,0,1
+      Scal 0.73111
+      }
+     defo {
+      affi {
+       ScaX 7.52103
+       ScaY 7.78351
+       ScaZ 2.55769
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 4
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.75,0.99608
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0.2473
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Mur fond 1"
+     }
+    inpr {
+     nm "mur sud"
+     AnTr 1
+     Cloa 1
+     tran {
+      po -3.71695,-1.42844,-5.70969
+      mat 0.00009,-0.99997,0,0.99997,0.00009,0,0,0,1
+      Scal 0.73111
+      }
+     defo {
+      affi {
+       ScaX 3.21596
+       ScaY 0.72191
+       ScaZ 1.65543
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,7.99976,2
+        mbox 0,0,7.99976,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           smap {
+            MInf {
+             tile 0
+             seam 0
+             cnth 1
+             cntv 1
+             flph 1
+             flpv 1
+             rotc 0
+             intp 1
+             invC 0
+             }
+            prkd 0
+            CMAp {
+             IMAP 0
+             MDTA {
+              REFN 0
+              TIME "22:57:1148691793"
+              }
+             }
+            whit 0
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0.2473
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Mur fond 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -13.97472,-1.00017,7.25414
+      Scal 0.44443
+      }
+     defo {
+      affi {
+       ScaX 1.49994
+       ScaY 1.49994
+       ScaZ 1.49994
+       R1,1 1
+       R1,2 0
+       R1,3 0
+       R2,1 0
+       R2,2 1
+       R2,3 0
+       R3,1 0
+       R3,2 0
+       R3,3 1
+       Tra1 0
+       Tra2 0
+       Tra3 0
+       }
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2,2
+        mbox 0,0,2,2
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.75,0.99608
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0.2473
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Sphère 1"
+     }
+    inpr {
+     AnTr 1
+     Cloa 1
+     tran {
+      po -8.84691,-3.49796,-11.31664
+      mat 1,0,0,0,-1,0,0,0,-1
+      Scal 1.4726
+      }
+     sh {
+      mapk 0
+      elms {
+       sprm {
+        uvsp 0
+        aexp 1
+        bbox 0,0,2.66666,6.28319
+        mbox 0,0,2.66666,6.28319
+        shdr {
+         scmp {
+          prkd 1
+          ssub {
+           sclr {
+            prkd 1
+            colr 0,0.75,0.99608
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0.5
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0.2473
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sval {
+            prkd 1
+            Val 0
+            }
+           sclr {
+            prkd 1
+            colr 0,0,0
+            }
+           }
+          }
+         }
+        opac 1
+        }
+       }
+      }
+     ob "Cône"
+     }
+    }
+   boxM 40.94325,40.46214,18.21643
+   boxm -15.97456,-9.00009,-14.99812
+   open 1
+   }
+  }
+ TABL {
+  SUBT {
+   Prvw {
+    }
+   }
+  SUBT {
+   IMAP {
+    ROBJ {
+     IDEN {
+      REFN 0
+      TIME "22:57:1148691793"
+      }
+     DATA {
+      stor 0
+      w 64
+      h 64
+      dpth 32
+      tils 64,64
+      TDTA {
+       TILE $FFFFFFFF81FF81FF81FF81FF81FF81FF81FF81FF81FFE8FF00E0FEC000EAC9FF02D56016FC00022B8BEAF9FFFC8000C0DCFF01EA4BF7000116B5FBFF00D5FC0000C0DDFF01D516FE00061680E0FFEAB536FE0000AAFCFF0080FD000016DDFF01D516FE000116D5FBFF04B5160000AAFDFF002BFD00004BDEFF01D516FD0000D5F9FF07D5160016E0FFFFEAFC0000A0DEFF002BFD000080F7FF06D5160036FFFFA0FC0000EADFFF0095FD000116EAF6FF05950000CAFF60FD00002BDEFF0016FD000060F4FF042B0036FF16FD000080DFFF00A0FC0000B5F4FF03B50000AAFC0000D5DFFF004BFC0000EAF3FF0020FB000016DEFF0016FD000016F2FF0080FB000060DFFF00D5FC000040F2FF00E0FB0000A0DFFF00C0FC000040F1FF0020FC0000EADFFF0080FC000080F1FF0040FD000040DEFF0080FC000080F1FF0016FD00008BDEFF0080FC000080F2FF00D5FC0000D5DEFF0080FC000080F2FF0075FD000020DDFF00B5FC000080F2FF0020FD000060DDFF00D5FC000060F3FF00D5FC0000B5DCFFFC000040F3FF0075FC000080DCFF004BFD00002BF3FF0016FC000040DCFF00A0FC0000EAF5FF00A0FA0000EAFBFF01E0C0E5FF01EA16FD0000B5F5FF0020FD0003550000A0FBFF016000E4FF0080FD00004BF6FF00A0FD000420EA00004BFBFF012040E4FF01EA16FD0000CAF8FF01EA20FD0005CAFF400000D5FDFF02950060E3FF00B5FD00012BEAF9FF004BFD000D6BFFFF8B00002BD5FFFFAA1600A0E2FF006BFD00012BE0FBFF0055FD000036FEFF01EA16FE00014020FE0000EAE1FF006BFD00061680D5FFEAA020FD000155EAFDFF0080FA00006BDFFF01B520F600011695FAFF002BFC00012BEADDFF02A04B16FB00022B8BEAF8FF058020001680EAD9FF00EAFDC081FF81FF81FF81FF81FF81FF81FFDFFF81FF81FF81FF81FF81FF81FF81FF81FF81FFE8FF00E0FEC000EAC9FF02D56016FC00022B8BEAF9FFFC8000C0DCFF01EA4BF7000116B5FBFF00D5FC0000C0DDFF01D516FE00061680E0FFEAB536FE0000AAFCFF0080FD000016DDFF01D516FE000116D5FBFF04B5160000AAFDFF002BFD00004BDEFF01D516FD0000D5F9FF07D5160016E0FFFFEAFC0000A0DEFF002BFD000080F7FF06D5160036FFFFA0FC0000EADFFF0095FD000116EAF6FF05950000CAFF60FD00002BDEFF0016FD000060F4FF042B0036FF16FD000080DFFF00A0FC0000B5F4FF03B50000AAFC0000D5DFFF004BFC0000EAF3FF0020FB000016DEFF0016FD000016F2FF0080FB000060DFFF00D5FC000040F2FF00E0FB0000A0DFFF00C0FC000040F1FF0020FC0000EADFFF0080FC000080F1FF0040FD000040DEFF0080FC000080F1FF0016FD00008BDEFF0080FC000080F2FF00D5FC0000D5DEFF0080FC000080F2FF0075FD000020DDFF00B5FC000080F2FF0020FD000060DDFF00D5FC000060F3FF00D5FC0000B5DCFFFC000040F3FF0075FC000080DCFF004BFD00002BF3FF0016FC000040DCFF00A0FC0000EAF5FF00A0FA0000EAFBFF01E0C0E5FF01EA16FD0000B5F5FF0020FD0003550000A0FBFF016000E4FF0080FD00004BF6FF00A0FD000420EA00004BFBFF012040E4FF01EA16FD0000CAF8FF01EA20FD0005CAFF400000D5FDFF02950060E3FF00B5FD00012BEAF9FF004BFD000D6BFFFF8B00002BD5FFFFAA1600A0E2FF006BFD00012BE0FBFF0055FD000036FEFF01EA16FE00014020FE0000EAE1FF006BFD00061680D5FFEAA020FD000155EAFDFF0080FA00006BDFFF01B520F600011695FAFF002BFC00012BEADDFF02A04B16FB00022B8BEAF8FF058020001680EAD9FF00EAFDC081FF81FF81FF81FF81FF81FF81FFDFFF81FF81FF81FF81FF81FF81FF81FF81FF81FFE8FF00E0FEC000EAC9FF02D56016FC00022B8BEAF9FFFC8000C0DCFF01EA4BF7000116B5FBFF00D5FC0000C0DDFF01D516FE00061680E0FFEAB536FE0000AAFCFF0080FD000016DDFF01D516FE000116D5FBFF04B5160000AAFDFF002BFD00004BDEFF01D516FD0000D5F9FF07D5160016E0FFFFEAFC0000A0DEFF002BFD000080F7FF06D5160036FFFFA0FC0000EADFFF0095FD000116EAF6FF05950000CAFF60FD00002BDEFF0016FD000060F4FF042B0036FF16FD000080DFFF00A0FC0000B5F4FF03B50000AAFC0000D5DFFF004BFC0000EAF3FF0020FB000016DEFF0016FD000016F2FF0080FB000060DFFF00D5FC000040F2FF00E0FB0000A0DFFF00C0FC000040F1FF0020FC0000EADFFF0080FC000080F1FF0040FD000040DEFF0080FC000080F1FF0016FD00008BDEFF0080FC000080F2FF00D5FC0000D5DEFF0080FC000080F2FF0075FD000020DDFF00B5FC000080F2FF0020FD000060DDFF00D5FC000060F3FF00D5FC0000B5DCFFFC000040F3FF0075FC000080DCFF004BFD00002BF3FF0016FC000040DCFF00A0FC0000EAF5FF00A0FA0000EAFBFF01E0C0E5FF01EA16FD0000B5F5FF0020FD0003550000A0FBFF016000E4FF0080FD00004BF6FF00A0FD000420EA00004BFBFF012040E4FF01EA16FD0000CAF8FF01EA20FD0005CAFF400000D5FDFF02950060E3FF00B5FD00012BEAF9FF004BFD000D6BFFFF8B00002BD5FFFFAA1600A0E2FF006BFD00012BE0FBFF0055FD000036FEFF01EA16FE00014020FE0000EAE1FF006BFD00061680D5FFEAA020FD000155EAFDFF0080FA00006BDFFF01B520F600011695FAFF002BFC00012BEADDFF02A04B16FB00022B8BEAF8FF058020001680EAD9FF00EAFDC081FF81FF81FF81FF81FF81FF81FFDFFF$
+       }
+      DefM {
+       tile 0
+       seam 0
+       cnth 1
+       cntv 1
+       flph 0
+       flpv 0
+       rotc 0
+       intp 1
+       invC 0
+       }
+      }
+     }
+    }
+   }
+  SUBT {
+   MMAP {
+    }
+   }
+  SUBT {
+   MOVI {
+    }
+   }
+  }
+ TMgr {
+  time 0
+  }
+ }

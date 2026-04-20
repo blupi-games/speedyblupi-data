@@ -1,0 +1,460 @@
+3DC {
+ asci 1
+ vs "5.0"
+ sf "Amapi3D"
+ prvw 0
+ kind "scn"
+ }
+sc {
+ ob {
+  vmda {
+   nm "Form1"
+   fidl 1
+   xprm {
+    PmSt {
+     Pmsh {
+      Vrts {
+       VerD {
+        Posn -52.739502,-31.723848,111.847198
+        Flag 0
+        }
+       VerD {
+        Posn 60.193375,-31.723848,111.847198
+        Flag 0
+        }
+       VerD {
+        Posn 60.193375,-52.103569,111.847198
+        Flag 0
+        }
+       VerD {
+        Posn -52.739502,-52.103569,111.847198
+        Flag 0
+        }
+       VerD {
+        Posn -52.739502,-31.723848,-6.971195
+        Flag 0
+        }
+       VerD {
+        Posn 60.193375,-31.723848,-6.971195
+        Flag 0
+        }
+       VerD {
+        Posn 60.193375,-52.103569,-6.971195
+        Flag 0
+        }
+       VerD {
+        Posn -52.739502,-52.103569,-6.971195
+        Flag 0
+        }
+       }
+      Edgs {
+       EdgA 0,4
+       EdgA 4,5
+       EdgA 5,1
+       EdgA 1,0
+       EdgA 5,6
+       EdgA 6,2
+       EdgA 2,1
+       EdgA 6,7
+       EdgA 7,3
+       EdgA 3,2
+       EdgA 7,4
+       EdgA 0,3
+       }
+      Pgns {
+       PgSz 4
+       Pgon 0,4,5,1
+       PgSz 4
+       Pgon 1,5,6,2
+       PgSz 4
+       Pgon 2,6,7,3
+       PgSz 4
+       Pgon 3,7,4,0
+       PgSz 4
+       Pgon 0,1,2,3
+       PgSz 4
+       Pgon 7,6,5,4
+       }
+      }
+     }
+    }
+   }
+  vmda {
+   nm "Form0"
+   fidl 1
+   xprm {
+    PmSt {
+     Pmsh {
+      Vrts {
+       VerD {
+        Posn 6.026124,14.948818,0.718812
+        Flag 0
+        }
+       VerD {
+        Posn 19.158550,-0.296290,0.561693
+        Flag 0
+        }
+       VerD {
+        Posn 3.058065,-14.948818,0.535054
+        Flag 0
+        }
+       VerD {
+        Posn -9.056414,0.684470,0.291237
+        Flag 0
+        }
+       VerD {
+        Posn 20.167595,5.500000,21.856712
+        Flag 0
+        }
+       VerD {
+        Posn 23.395649,0.000000,22.416637
+        Flag 0
+        }
+       VerD {
+        Posn 21.331959,-5.500002,20.895771
+        Flag 0
+        }
+       VerD {
+        Posn 16.188166,-0.000000,21.152697
+        Flag 0
+        }
+       VerD {
+        Posn 13.058329,12.549219,0.721671
+        Flag 0
+        }
+       VerD {
+        Posn 17.725594,7.032493,0.640637
+        Flag 0
+        }
+       VerD {
+        Posn 20.724957,-0.200935,7.813016
+        Flag 0
+        }
+       VerD {
+        Posn 21.829239,-0.095355,15.165314
+        Flag 0
+        }
+       VerD {
+        Posn 23.067234,2.391429,22.468784
+        Flag 0
+        }
+       VerD {
+        Posn 22.160231,4.512657,22.258575
+        Flag 0
+        }
+       VerD {
+        Posn 15.471229,8.760022,14.850671
+        Flag 0
+        }
+       VerD {
+        Posn 10.722488,11.688797,7.724851
+        Flag 0
+        }
+       VerD {
+        Posn 16.670479,-8.011605,0.550293
+        Flag 0
+        }
+       VerD {
+        Posn 10.946388,-13.357393,0.568488
+        Flag 0
+        }
+       VerD {
+        Posn 9.136137,-11.693361,7.282564
+        Flag 0
+        }
+       VerD {
+        Posn 15.253885,-8.755458,14.148261
+        Flag 0
+        }
+       VerD {
+        Posn 23.044373,-4.350059,21.486479
+        Flag 0
+        }
+       VerD {
+        Posn 23.515072,-2.271225,22.055174
+        Flag 0
+        }
+       VerD {
+        Posn -3.690173,-12.272143,0.427596
+        Flag 0
+        }
+       VerD {
+        Posn -7.913423,-6.574096,0.318242
+        Flag 0
+        }
+       VerD {
+        Posn -0.653986,0.456850,7.260057
+        Flag 0
+        }
+       VerD {
+        Posn 7.785738,0.227620,14.183877
+        Flag 0
+        }
+       VerD {
+        Posn 16.899160,-2.799241,20.825205
+        Flag 0
+        }
+       VerD {
+        Posn 18.631433,-4.942851,20.608438
+        Flag 0
+        }
+       VerD {
+        Posn -6.691728,7.999199,0.404956
+        Flag 0
+        }
+       VerD {
+        Posn -1.382843,13.198589,0.584122
+        Flag 0
+        }
+       VerD {
+        Posn 17.817673,4.703840,21.500208
+        Flag 0
+        }
+       VerD {
+        Posn 16.505604,2.591283,21.324234
+        Flag 0
+        }
+       VerD {
+        Posn 16.302395,9.870230,7.846552
+        Flag 0
+        }
+       VerD {
+        Posn 19.724108,5.632901,7.869618
+        Flag 0
+        }
+       VerD {
+        Posn 18.916166,7.191647,15.133694
+        Flag 0
+        }
+       VerD {
+        Posn 21.068716,3.791019,15.239804
+        Flag 0
+        }
+       VerD {
+        Posn 19.139105,-6.300724,7.680676
+        Flag 0
+        }
+       VerD {
+        Posn 15.197096,-10.420490,7.490660
+        Flag 0
+        }
+       VerD {
+        Posn 21.046442,-3.982106,14.924790
+        Flag 0
+        }
+       VerD {
+        Posn 18.793663,-7.286962,14.564308
+        Flag 0
+        }
+       VerD {
+        Posn 3.571380,-9.788100,7.152191
+        Flag 0
+        }
+       VerD {
+        Posn 0.242932,-5.423687,7.171437
+        Flag 0
+        }
+       VerD {
+        Posn 11.369880,-7.426894,13.883843
+        Flag 0
+        }
+       VerD {
+        Posn 8.742805,-3.949649,13.972013
+        Flag 0
+        }
+       VerD {
+        Posn 0.965401,6.349902,7.379834
+        Flag 0
+        }
+       VerD {
+        Posn 4.839658,10.382998,7.541587
+        Flag 0
+        }
+       VerD {
+        Posn 8.848476,4.240580,14.349354
+        Flag 0
+        }
+       VerD {
+        Posn 11.595173,7.519431,14.542745
+        Flag 0
+        }
+       }
+      Edgs {
+       EdgA 0,8
+       EdgA 8,32
+       EdgA 32,15
+       EdgA 15,0
+       EdgA 8,9
+       EdgA 9,33
+       EdgA 33,32
+       EdgA 9,1
+       EdgA 1,10
+       EdgA 10,33
+       EdgA 32,34
+       EdgA 34,14
+       EdgA 14,15
+       EdgA 33,35
+       EdgA 35,34
+       EdgA 10,11
+       EdgA 11,35
+       EdgA 34,13
+       EdgA 13,4
+       EdgA 4,14
+       EdgA 35,12
+       EdgA 12,13
+       EdgA 11,5
+       EdgA 5,12
+       EdgA 1,16
+       EdgA 16,36
+       EdgA 36,10
+       EdgA 16,17
+       EdgA 17,37
+       EdgA 37,36
+       EdgA 17,2
+       EdgA 2,18
+       EdgA 18,37
+       EdgA 36,38
+       EdgA 38,11
+       EdgA 37,39
+       EdgA 39,38
+       EdgA 18,19
+       EdgA 19,39
+       EdgA 38,21
+       EdgA 21,5
+       EdgA 39,20
+       EdgA 20,21
+       EdgA 19,6
+       EdgA 6,20
+       EdgA 2,22
+       EdgA 22,40
+       EdgA 40,18
+       EdgA 22,23
+       EdgA 23,41
+       EdgA 41,40
+       EdgA 23,3
+       EdgA 3,24
+       EdgA 24,41
+       EdgA 40,42
+       EdgA 42,19
+       EdgA 41,43
+       EdgA 43,42
+       EdgA 24,25
+       EdgA 25,43
+       EdgA 42,27
+       EdgA 27,6
+       EdgA 43,26
+       EdgA 26,27
+       EdgA 25,7
+       EdgA 7,26
+       EdgA 3,28
+       EdgA 28,44
+       EdgA 44,24
+       EdgA 28,29
+       EdgA 29,45
+       EdgA 45,44
+       EdgA 29,0
+       EdgA 15,45
+       EdgA 44,46
+       EdgA 46,25
+       EdgA 45,47
+       EdgA 47,46
+       EdgA 14,47
+       EdgA 46,31
+       EdgA 31,7
+       EdgA 47,30
+       EdgA 30,31
+       EdgA 4,30
+       }
+      Pgns {
+       PgSz 4
+       Pgon 0,8,32,15
+       PgSz 4
+       Pgon 8,9,33,32
+       PgSz 4
+       Pgon 9,1,10,33
+       PgSz 4
+       Pgon 15,32,34,14
+       PgSz 4
+       Pgon 32,33,35,34
+       PgSz 4
+       Pgon 33,10,11,35
+       PgSz 4
+       Pgon 14,34,13,4
+       PgSz 4
+       Pgon 34,35,12,13
+       PgSz 4
+       Pgon 35,11,5,12
+       PgSz 4
+       Pgon 1,16,36,10
+       PgSz 4
+       Pgon 16,17,37,36
+       PgSz 4
+       Pgon 17,2,18,37
+       PgSz 4
+       Pgon 10,36,38,11
+       PgSz 4
+       Pgon 36,37,39,38
+       PgSz 4
+       Pgon 37,18,19,39
+       PgSz 4
+       Pgon 11,38,21,5
+       PgSz 4
+       Pgon 38,39,20,21
+       PgSz 4
+       Pgon 39,19,6,20
+       PgSz 4
+       Pgon 2,22,40,18
+       PgSz 4
+       Pgon 22,23,41,40
+       PgSz 4
+       Pgon 23,3,24,41
+       PgSz 4
+       Pgon 18,40,42,19
+       PgSz 4
+       Pgon 40,41,43,42
+       PgSz 4
+       Pgon 41,24,25,43
+       PgSz 4
+       Pgon 19,42,27,6
+       PgSz 4
+       Pgon 42,43,26,27
+       PgSz 4
+       Pgon 43,25,7,26
+       PgSz 4
+       Pgon 3,28,44,24
+       PgSz 4
+       Pgon 28,29,45,44
+       PgSz 4
+       Pgon 29,0,15,45
+       PgSz 4
+       Pgon 24,44,46,25
+       PgSz 4
+       Pgon 44,45,47,46
+       PgSz 4
+       Pgon 45,15,14,47
+       PgSz 4
+       Pgon 25,46,31,7
+       PgSz 4
+       Pgon 46,47,30,31
+       PgSz 4
+       Pgon 47,14,4,30
+       }
+      }
+     }
+    }
+   }
+  }
+ tr {
+  gr {
+   nm "Universe"
+   so {
+    inpr {
+     ob "Form1"
+     }
+    inpr {
+     ob "Form0"
+     }
+    }
+   }
+  }
+ }
